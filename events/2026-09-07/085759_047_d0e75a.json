@@ -1,0 +1,68 @@
+{
+	"ts": "2026-09-07T08:57:59.047Z",
+	"uuid": "d0e75a",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 984,
+			"y": 1015,
+			"color": 205
+		},
+		{
+			"x": 985,
+			"y": 1015,
+			"color": 241
+		},
+		{
+			"x": 986,
+			"y": 1015,
+			"color": 249
+		},
+		{
+			"x": 987,
+			"y": 1015,
+			"color": 241
+		},
+		{
+			"x": 988,
+			"y": 1015,
+			"color": 205
+		},
+		{
+			"x": 985,
+			"y": 1014,
+			"color": 205
+		},
+		{
+			"x": 986,
+			"y": 1014,
+			"color": 249
+		},
+		{
+			"x": 987,
+			"y": 1014,
+			"color": 205
+		},
+		{
+			"x": 986,
+			"y": 1013,
+			"color": 241
+		},
+		{
+			"x": 986,
+			"y": 1012,
+			"color": 249
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:d0e75a"
+	]
+}
