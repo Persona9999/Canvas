@@ -3,472 +3,146 @@
 	"history":
 	[
 		{
-			"ts":"2026-07-13T09:17:26.166Z",
-			"uuid":"311a14",
+			"ts":"2026-07-24T07:21:17.156Z",
+			"uuid":"ca92cc",
 			"type":"grant",
-			"amount":30,
-			"source":"manual_grant",
-			"ref":""
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"e6d591",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1053,974"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"0e1361",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1057,974"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"99ca98",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1052,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"32bc8b",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1053,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"00a5bb",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1054,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"e9026f",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1055,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"72b391",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1056,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"73aee6",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1057,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"d1c1fb",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1058,975"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"a44331",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1053,976"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"4797bd",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1055,976"
-		},
-		{
-			"ts":"2026-07-13T09:18:47.380Z",
-			"uuid":"03a410",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"6ab0ee:1057,976"
-		},
-		{
-			"ts":"2026-07-15T02:55:55.773Z",
-			"uuid":"49da61",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"eb99ff:1059,975"
-		},
-		{
-			"ts":"2026-07-16T03:15:57.955Z",
-			"uuid":"06111a",
-			"type":"grant",
-			"amount":30,
-			"source":"manual_grant",
-			"ref":""
-		},
-		{
-			"ts":"2026-07-28T08:33:30.716Z",
-			"uuid":"4e900b",
-			"type":"grant",
-			"amount":30,
+			"amount":15,
 			"source":"admin_grant",
-			"ref":"\u8f9b\u82e6\u4e86 \u7e3e\u6548\u734e\u91d1"
+			"ref":"TRPG"
 		},
 		{
-			"ts":"2026-07-29T00:51:11.803Z",
-			"uuid":"0f2565",
-			"type":"grant",
-			"amount":30,
-			"source":"admin_grant",
-			"ref":"UI\u512a\u5316(\u7e3e\u6548\u734e\u91d1)"
-		},
-		{
-			"ts":"2026-07-29T09:05:27.491Z",
-			"uuid":"f1669e",
+			"ts":"2026-08-01T10:53:12.758Z",
+			"uuid":"00a0e6",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"155484:100,100"
+			"ref":"7058f4:1135,1015"
 		},
 		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"c925c3",
+			"ts":"2026-08-01T10:58:42.793Z",
+			"uuid":"b8da44",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"b9f1b4:100,98"
+			"ref":"b5b312:1136,1015"
 		},
 		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"09740b",
+			"ts":"2026-08-11T14:24:03.658Z",
+			"uuid":"dc8a54",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"b9f1b4:98,100"
+			"ref":"2b1d34"
 		},
 		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"05c446",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:102,100"
-		},
-		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"b50e44",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:98,98"
-		},
-		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"24011d",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:102,98"
-		},
-		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"76d392",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:98,102"
-		},
-		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"69b471",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:102,102"
-		},
-		{
-			"ts":"2026-07-31T10:20:38.977Z",
-			"uuid":"db9e37",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"b9f1b4:100,102"
-		},
-		{
-			"ts":"2026-07-31T10:26:19.343Z",
-			"uuid":"c0fbeb",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"d34559:100,96"
-		},
-		{
-			"ts":"2026-07-31T10:26:19.343Z",
-			"uuid":"d81112",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"d34559:96,100"
-		},
-		{
-			"ts":"2026-07-31T10:26:19.343Z",
-			"uuid":"135a44",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"d34559:104,100"
-		},
-		{
-			"ts":"2026-08-04T03:33:17.057Z",
-			"uuid":"df86a8",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"fb7d98:101,99"
-		},
-		{
-			"ts":"2026-08-04T03:33:52.117Z",
-			"uuid":"a182d4",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"ba939f:102,99"
-		},
-		{
-			"ts":"2026-08-04T03:34:10.218Z",
-			"uuid":"b2c017",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"e443d9:103,99"
-		},
-		{
-			"ts":"2026-08-04T03:34:29.137Z",
-			"uuid":"06dcd8",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"df8602:102,98"
-		},
-		{
-			"ts":"2026-08-13T03:11:17.115Z",
-			"uuid":"cac319",
-			"type":"consume",
-			"amount":6,
-			"source":"canvas_place",
-			"ref":"59ea33"
-		},
-		{
-			"ts":"2026-08-14T01:10:39.545Z",
-			"uuid":"7c3dd1",
-			"type":"grant",
-			"amount":50,
-			"source":"admin_grant",
-			"ref":"\u7e3e\u6548\u734e\u91d1"
-		},
-		{
-			"ts":"2026-08-17T04:09:45.730Z",
-			"uuid":"c58a9f",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"9cb65c"
-		},
-		{
-			"ts":"2026-08-21T04:06:11.684Z",
-			"uuid":"b2919e",
+			"ts":"2026-08-26T16:34:45.082Z",
+			"uuid":"1678d2",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260821T040611Z-apex-one",
-			"batch":"955e08",
-			"expires_at":"2026-08-21T04:16:00.000Z"
+			"ref":"ft-20260826T163445Z-apex-one",
+			"batch":"ee1c12",
+			"expires_at":"2026-08-26T16:41:00.000Z"
 		},
 		{
-			"ts":"2026-08-21T04:07:55.542Z",
-			"uuid":"9d41a4",
+			"ts":"2026-08-26T16:37:55.820Z",
+			"uuid":"90c4bb",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"38cf23"
+			"ref":"a001eb"
 		},
 		{
-			"ts":"2026-08-21T04:08:10.561Z",
-			"uuid":"1c215f",
+			"ts":"2026-08-26T16:38:14.188Z",
+			"uuid":"0173c4",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"e6282a"
+			"ref":"40fbbf"
 		},
 		{
-			"ts":"2026-08-21T07:06:24.158Z",
-			"uuid":"688fab",
+			"ts":"2026-09-01T15:42:59.894Z",
+			"uuid":"f4f5b3",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260821T070624Z-apex-one",
-			"batch":"54e177",
-			"expires_at":"2026-08-21T07:16:00.000Z"
+			"ref":"ft-20260901T154259Z-apex-one",
+			"batch":"b994ce",
+			"expires_at":"2026-09-01T15:51:00.000Z"
 		},
 		{
-			"ts":"2026-08-21T07:06:56.094Z",
-			"uuid":"343bf5",
+			"ts":"2026-09-01T15:45:01.439Z",
+			"uuid":"796560",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"9a7bc2"
+			"ref":"c8ca1d"
 		},
 		{
-			"ts":"2026-08-24T04:05:05.683Z",
-			"uuid":"e94584",
+			"ts":"2026-09-03T15:00:01.394Z",
+			"uuid":"014398",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260824T040505Z-apex-one",
-			"batch":"36d2e9",
-			"expires_at":"2026-08-24T04:21:00.000Z"
+			"ref":"ft-20260903T150001Z-apex-one",
+			"batch":"77b31f",
+			"expires_at":"2026-09-03T15:11:00.000Z"
 		},
 		{
-			"ts":"2026-08-24T04:10:58.412Z",
-			"uuid":"0b487e",
+			"ts":"2026-09-03T15:02:08.534Z",
+			"uuid":"7a7a47",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"d116da"
+			"ref":"cb1325"
 		},
 		{
-			"ts":"2026-08-24T07:08:01.473Z",
-			"uuid":"5cb47b",
+			"ts":"2026-09-03T15:15:29.256Z",
+			"uuid":"143050",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260824T070801Z-apex-one",
-			"batch":"c025b3",
-			"expires_at":"2026-08-24T07:16:00.000Z"
+			"ref":"ft-20260903T151529Z-apex-one",
+			"batch":"029def",
+			"expires_at":"2026-09-03T15:21:00.000Z"
 		},
 		{
-			"ts":"2026-08-24T07:09:39.406Z",
-			"uuid":"45293b",
+			"ts":"2026-09-03T15:16:24.192Z",
+			"uuid":"f3bb38",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"4c9362"
+			"ref":"0ebb50"
 		},
 		{
-			"ts":"2026-08-26T09:17:41.367Z",
-			"uuid":"ef30c1",
+			"ts":"2026-09-06T12:08:20.566Z",
+			"uuid":"2e6eac",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260826T091741Z-apex-one",
-			"batch":"f699ae",
-			"expires_at":"2026-08-26T09:31:00.000Z"
+			"ref":"ft-20260906T120820Z-apex-one",
+			"batch":"d968dc",
+			"expires_at":"2026-09-06T12:16:00.000Z"
 		},
 		{
-			"ts":"2026-08-26T09:19:24.565Z",
-			"uuid":"e77509",
-			"type":"grant",
-			"amount":5,
-			"source":"chess_reward",
-			"ref":"chess#7:lose",
-			"batch":"050857"
-		},
-		{
-			"ts":"2026-08-26T09:23:01.474Z",
-			"uuid":"77fe3a",
+			"ts":"2026-09-06T12:14:52.107Z",
+			"uuid":"48f7aa",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"fb857f"
-		},
-		{
-			"ts":"2026-09-01T04:08:04.034Z",
-			"uuid":"6edf86",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260901T040804Z-apex-one",
-			"batch":"869899",
-			"expires_at":"2026-09-01T04:16:00.000Z"
-		},
-		{
-			"ts":"2026-09-01T04:09:58.663Z",
-			"uuid":"fa3a4c",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"3ec226"
-		},
-		{
-			"ts":"2026-09-01T08:52:50.513Z",
-			"uuid":"79c76b",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260901T085250Z-apex-one",
-			"batch":"929f7d",
-			"expires_at":"2026-09-01T09:01:00.000Z"
-		},
-		{
-			"ts":"2026-09-01T08:54:31.076Z",
-			"uuid":"ee3d4e",
-			"type":"consume",
-			"amount":2,
-			"source":"sculpture_place_freetime",
-			"ref":"sculpture:165431_055_ce4c27.json"
-		},
-		{
-			"ts":"2026-09-01T08:54:46.181Z",
-			"uuid":"857b98",
-			"type":"consume",
-			"amount":1,
-			"source":"sculpture_place_freetime",
-			"ref":"sculpture:165446_163_089400.json"
-		},
-		{
-			"ts":"2026-09-01T08:55:38.302Z",
-			"uuid":"cab26d",
-			"type":"consume",
-			"amount":7,
-			"source":"canvas_place",
-			"ref":"b994c1"
+			"ref":"ddba58"
 		}
 	],
 	"batches":
 	[
 		{
 			"uuid":"legacy",
-			"amount":125,
-			"remain":115,
+			"amount":12,
+			"remain":2,
 			"granted_at":"",
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
-		},
-		{
-			"uuid":"050857",
-			"amount":5,
-			"remain":5,
-			"granted_at":"2026-08-26T09:19:24.564Z",
-			"expires_at":"",
-			"source":"chess_reward",
-			"ref":"chess#7:lose"
 		}
 	]
 }

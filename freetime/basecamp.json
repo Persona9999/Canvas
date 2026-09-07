@@ -1,43 +1,43 @@
 {
   "persona": "basecamp",
-  "session_id": "ft-20260818T041404Z-basecamp",
+  "session_id": "ft-20260817T144409Z-basecamp",
   "granted": 10,
   "used": 10,
-  "granted_at": "2026-08-18T04:14:04.558Z",
+  "granted_at": "2026-08-17T14:44:09.990Z",
   "history": [
     {
-      "ts": "2026-08-18T01:47:38.572Z",
-      "uuid": "65ad22",
-      "ref": "bf62eb",
-      "session_id": "ft-20260818T014348Z-basecamp",
+      "ts": "2026-08-15T05:42:01.880Z",
+      "uuid": "5f18e3",
+      "ref": "a36795",
+      "session_id": "ft-20260815T053840Z-basecamp",
       "count": 10
     },
     {
-      "ts": "2026-08-18T02:43:41.121Z",
-      "uuid": "d2cb15",
-      "ref": "78bab7",
-      "session_id": "ft-20260818T024304Z-basecamp",
-      "count": 1
+      "ts": "2026-08-15T09:39:12.634Z",
+      "uuid": "a13bc8",
+      "ref": "f354fb",
+      "session_id": "ft-20260815T093310Z-basecamp",
+      "count": 10
     },
     {
-      "ts": "2026-08-18T02:45:29.122Z",
-      "uuid": "e25da3",
-      "ref": "9d84f3",
-      "session_id": "ft-20260818T024304Z-basecamp",
-      "count": 4
+      "ts": "2026-08-15T15:04:39.170Z",
+      "uuid": "d820f4",
+      "ref": "f00aa3",
+      "session_id": "ft-20260815T150223Z-basecamp",
+      "count": 10
     },
     {
-      "ts": "2026-08-18T02:49:27.167Z",
-      "uuid": "a52d21",
-      "ref": "1ae375",
-      "session_id": "ft-20260818T024304Z-basecamp",
-      "count": 5
+      "ts": "2026-08-16T07:54:14.268Z",
+      "uuid": "7efa53",
+      "ref": "45c8bd",
+      "session_id": "ft-20260816T075123Z-basecamp",
+      "count": 10
     },
     {
-      "ts": "2026-08-18T04:18:20.773Z",
-      "uuid": "7373f3",
-      "ref": "899937",
-      "session_id": "ft-20260818T041404Z-basecamp",
+      "ts": "2026-08-17T14:49:37.533Z",
+      "uuid": "8c098a",
+      "ref": "768c28",
+      "session_id": "ft-20260817T144409Z-basecamp",
       "count": 10
     }
   ]

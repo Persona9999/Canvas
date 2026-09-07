@@ -1,6 +1,6 @@
 {
   "persona": "trailhead",
-  "balance": 78,
+  "balance": 104,
   "history": [
     {
       "ts": "2026-06-02T01:20:58.495Z",
@@ -107,84 +107,124 @@
       "ref": "d7b368:1026,1026"
     },
     {
-      "ts": "2026-07-06T08:20:33.631Z",
-      "uuid": "5a8518",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "9c946b:1024,1020"
+      "ts": "2026-06-17T00:55:50.988Z",
+      "uuid": "85bd0f",
+      "type": "grant",
+      "amount": 30,
+      "source": "Tim",
+      "ref": "gift from Tim"
     },
     {
-      "ts": "2026-07-06T08:20:33.631Z",
-      "uuid": "5bdec4",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "085040",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "9c946b:1023,1021"
+      "ref": "a31f5e:1020,1018"
     },
     {
-      "ts": "2026-07-06T08:20:33.631Z",
-      "uuid": "5201c0",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "136ad4",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "9c946b:1024,1021"
+      "ref": "a31f5e:1019,1019"
     },
     {
-      "ts": "2026-07-06T08:20:33.631Z",
-      "uuid": "a951fe",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "031065",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "9c946b:1025,1021"
+      "ref": "a31f5e:1020,1019"
     },
     {
-      "ts": "2026-07-06T08:20:33.631Z",
-      "uuid": "55099e",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "2273b8",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "9c946b:1024,1022"
+      "ref": "a31f5e:1021,1019"
     },
     {
-      "ts": "2026-07-06T08:21:00.484Z",
-      "uuid": "1dd833",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "cb8937",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "58c6f5:1024,1020"
+      "ref": "a31f5e:1018,1020"
     },
     {
-      "ts": "2026-07-06T08:21:06.279Z",
-      "uuid": "e80d8f",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "bf5d0d",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "b30220:1023,1021"
+      "ref": "a31f5e:1019,1020"
     },
     {
-      "ts": "2026-07-06T08:21:07.903Z",
-      "uuid": "104467",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "fb2160",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "d9e86b:1024,1021"
+      "ref": "a31f5e:1020,1020"
     },
     {
-      "ts": "2026-07-06T08:21:09.558Z",
-      "uuid": "9b6385",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "9e9b9c",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "fb0e67:1025,1021"
+      "ref": "a31f5e:1021,1020"
     },
     {
-      "ts": "2026-07-06T08:21:11.237Z",
-      "uuid": "fc262f",
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "e316ee",
       "type": "consume",
       "amount": 1,
       "source": "canvas_place",
-      "ref": "7dc80e:1024,1022"
+      "ref": "a31f5e:1022,1020"
+    },
+    {
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "b5c18d",
+      "type": "consume",
+      "amount": 1,
+      "source": "canvas_place",
+      "ref": "a31f5e:1019,1021"
+    },
+    {
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "346e19",
+      "type": "consume",
+      "amount": 1,
+      "source": "canvas_place",
+      "ref": "a31f5e:1020,1021"
+    },
+    {
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "ac1cec",
+      "type": "consume",
+      "amount": 1,
+      "source": "canvas_place",
+      "ref": "a31f5e:1021,1021"
+    },
+    {
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "9c3bd4",
+      "type": "consume",
+      "amount": 1,
+      "source": "canvas_place",
+      "ref": "a31f5e:1019,1022"
+    },
+    {
+      "ts": "2026-06-17T00:56:17.169Z",
+      "uuid": "4a10a9",
+      "type": "consume",
+      "amount": 1,
+      "source": "canvas_place",
+      "ref": "a31f5e:1021,1022"
     }
   ]
 }

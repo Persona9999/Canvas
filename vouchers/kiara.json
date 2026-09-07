@@ -19,563 +19,370 @@
 			"ref":"task:T-StreamWatch-TavernSync"
 		},
 		{
-			"ts":"2026-08-07T05:24:36.614Z",
-			"uuid":"7a8525",
+			"ts":"2026-07-22T03:49:44.983Z",
+			"uuid":"c98687",
 			"type":"grant",
-			"amount":5,
-			"source":"book_tip",
-			"ref":"tip:kiara-testimony-in-broken-frames:3e784228"
-		},
-		{
-			"ts":"2026-08-17T03:52:16.449Z",
-			"uuid":"3e2b1f",
-			"type":"grant",
-			"amount":30,
+			"amount":15,
 			"source":"admin_grant",
-			"ref":"\u7e3e\u6548\u734e\u91d1"
+			"ref":"\u88dc\u767c"
 		},
 		{
-			"ts":"2026-08-17T06:19:31.291Z",
-			"uuid":"83932b",
+			"ts":"2026-07-22T03:52:47.254Z",
+			"uuid":"e5f72d",
 			"type":"grant",
-			"amount":30,
+			"amount":20,
 			"source":"admin_grant",
-			"ref":"\u7e3e\u6548\u734e\u91d1"
+			"ref":"\u7e3e\u6548\u734e\u91d1(UCL_BankAdminPage\u4fee\u5fa9&\u91cd\u69cb)"
 		},
 		{
-			"ts":"2026-08-17T06:27:44.614Z",
-			"uuid":"6a41c0",
+			"ts":"2026-07-24T07:22:10.848Z",
+			"uuid":"d01de6",
 			"type":"grant",
-			"amount":1,
-			"source":"qa_test",
-			"ref":"T-voucher-cmd-migration round-trip"
+			"amount":10,
+			"source":"admin_grant",
+			"ref":"TRPG\uff08\u7fa4\u6f14\u00b7\u672c\u5834\u5019\u5834\uff09"
 		},
 		{
-			"ts":"2026-08-17T06:27:57.100Z",
-			"uuid":"170776",
-			"type":"consume",
-			"amount":1,
-			"source":"canvas_place",
-			"ref":"T-voucher-cmd-migration round-trip \u56de\u6536\u6e2c\u8a66\u5238"
-		},
-		{
-			"ts":"2026-08-18T09:41:08.134Z",
-			"uuid":"afc973",
+			"ts":"2026-08-19T16:02:50.237Z",
+			"uuid":"5e3fd6",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260818T094108Z-kiara",
-			"batch":"7119b6",
-			"expires_at":"2026-08-18T09:51:00.000Z"
+			"ref":"ft-20260819T160250Z-kiara",
+			"batch":"cc001e",
+			"expires_at":"2026-08-19T16:11:00.000Z"
 		},
 		{
-			"ts":"2026-08-18T09:41:16.081Z",
-			"uuid":"acc557",
+			"ts":"2026-08-19T16:05:53.106Z",
+			"uuid":"18dee1",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"9b1088"
+			"ref":"75471f"
 		},
 		{
-			"ts":"2026-08-19T09:29:42.990Z",
-			"uuid":"3f40f0",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260819T092942Z-kiara",
-			"batch":"090718",
-			"expires_at":"2026-08-19T09:41:00.000Z"
-		},
-		{
-			"ts":"2026-08-20T04:18:19.303Z",
-			"uuid":"b18597",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260820T041819Z-kiara",
-			"batch":"1da976",
-			"expires_at":"2026-08-20T04:31:00.000Z"
-		},
-		{
-			"ts":"2026-08-20T04:18:19.303Z",
-			"uuid":"490dbb",
-			"type":"expire",
-			"amount":10,
-			"source":"expired",
-			"ref":"\u5230\u671f\u4f5c\u5ee2"
-		},
-		{
-			"ts":"2026-08-20T04:26:45.977Z",
-			"uuid":"a9ab32",
+			"ts":"2026-08-19T16:06:12.957Z",
+			"uuid":"2ac405",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"6c7ef5"
+			"ref":"ceb405"
 		},
 		{
-			"ts":"2026-08-20T10:50:45.499Z",
-			"uuid":"f117bf",
+			"ts":"2026-08-21T15:52:54.434Z",
+			"uuid":"03b012",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260820T105045Z-kiara",
-			"batch":"71a5a5",
-			"expires_at":"2026-08-20T11:01:00.000Z"
+			"ref":"ft-20260821T155254Z-kiara",
+			"batch":"47b0ce",
+			"expires_at":"2026-08-21T15:56:00.000Z"
 		},
 		{
-			"ts":"2026-08-20T10:54:39.687Z",
-			"uuid":"e5fce6",
+			"ts":"2026-08-21T15:55:36.681Z",
+			"uuid":"573fd5",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"2eb60e"
+			"ref":"601c39"
 		},
 		{
-			"ts":"2026-08-24T04:04:32.229Z",
-			"uuid":"a2f84d",
+			"ts":"2026-08-21T15:56:04.361Z",
+			"uuid":"e4719f",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"985fca"
+		},
+		{
+			"ts":"2026-08-23T15:06:45.719Z",
+			"uuid":"c28a0c",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260824T040432Z-kiara",
-			"batch":"4ef0f6",
-			"expires_at":"2026-08-24T04:21:00.000Z"
+			"ref":"ft-20260823T150645Z-kiara",
+			"batch":"6a0e32",
+			"expires_at":"2026-08-23T15:21:00.000Z"
 		},
 		{
-			"ts":"2026-08-24T04:05:29.837Z",
-			"uuid":"344f03",
+			"ts":"2026-08-23T15:09:19.210Z",
+			"uuid":"07dac3",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"2a87f5"
+			"ref":"e19b87"
 		},
 		{
-			"ts":"2026-08-24T04:05:57.620Z",
-			"uuid":"7c9e91",
+			"ts":"2026-08-24T16:00:56.407Z",
+			"uuid":"b7573b",
 			"type":"grant",
-			"amount":5,
-			"source":"chess_reward",
-			"ref":"chess#3:lose",
-			"batch":"88e4e4"
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260824T160056Z-kiara",
+			"batch":"e795e4",
+			"expires_at":"2026-08-24T16:11:00.000Z"
 		},
 		{
-			"ts":"2026-08-24T04:07:38.961Z",
-			"uuid":"8618ef",
+			"ts":"2026-08-24T16:01:47.618Z",
+			"uuid":"5b3bf7",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"8791f4"
+		},
+		{
+			"ts":"2026-08-24T16:05:15.584Z",
+			"uuid":"61ea2d",
 			"type":"consume",
 			"amount":1,
 			"source":"sculpture_place",
-			"ref":"sculpture:120738_944_0d53e5.json"
+			"ref":"sculpture:000515_558_c1745d.json"
 		},
 		{
-			"ts":"2026-08-24T07:07:34.405Z",
-			"uuid":"a9063f",
+			"ts":"2026-08-29T15:25:34.982Z",
+			"uuid":"879f5e",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260824T070734Z-kiara",
-			"batch":"ddd786",
-			"expires_at":"2026-08-24T07:16:00.000Z"
+			"ref":"ft-20260829T152534Z-kiara",
+			"batch":"47a5fd",
+			"expires_at":"2026-08-29T15:36:00.000Z"
 		},
 		{
-			"ts":"2026-08-24T07:07:49.763Z",
-			"uuid":"479015",
+			"ts":"2026-08-29T15:30:32.144Z",
+			"uuid":"084eb1",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"5d2f94"
+			"ref":"9ee6bc"
 		},
 		{
-			"ts":"2026-08-24T07:09:35.804Z",
-			"uuid":"eaa84a",
-			"type":"consume",
-			"amount":1,
-			"source":"sculpture_place",
-			"ref":"sculpture:150935_785_416cdd.json"
-		},
-		{
-			"ts":"2026-08-25T04:01:34.080Z",
-			"uuid":"617dd1",
+			"ts":"2026-08-30T08:50:44.718Z",
+			"uuid":"42cb63",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260825T040134Z-kiara",
-			"batch":"c14274",
-			"expires_at":"2026-08-25T04:11:00.000Z"
+			"ref":"ft-20260830T085044Z-kiara",
+			"batch":"fe3c54",
+			"expires_at":"2026-08-30T09:01:00.000Z"
 		},
 		{
-			"ts":"2026-08-25T04:04:07.325Z",
-			"uuid":"6543ef",
+			"ts":"2026-08-30T08:51:59.828Z",
+			"uuid":"ff0c8e",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"0c8c31"
+			"ref":"34a394"
 		},
 		{
-			"ts":"2026-08-25T08:13:58.929Z",
-			"uuid":"34f1a2",
+			"ts":"2026-09-01T15:43:22.055Z",
+			"uuid":"40cdd5",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260825T081358Z-kiara",
-			"batch":"96e481",
-			"expires_at":"2026-08-25T08:31:00.000Z"
+			"ref":"ft-20260901T154322Z-kiara",
+			"batch":"165999",
+			"expires_at":"2026-09-01T15:51:00.000Z"
 		},
 		{
-			"ts":"2026-08-25T08:14:51.018Z",
-			"uuid":"972e4c",
+			"ts":"2026-09-01T15:47:37.958Z",
+			"uuid":"c08aa0",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"4b514d"
+			"ref":"f173fc"
 		},
 		{
-			"ts":"2026-08-28T05:20:04.001Z",
-			"uuid":"51c26b",
+			"ts":"2026-09-02T14:40:13.554Z",
+			"uuid":"1758ef",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260828T052003Z-kiara",
-			"batch":"7e1005",
-			"expires_at":"2026-08-28T05:26:00.000Z"
+			"ref":"ft-20260902T144013Z-kiara",
+			"batch":"48d93b",
+			"expires_at":"2026-09-02T14:51:00.000Z"
 		},
 		{
-			"ts":"2026-08-28T08:11:30.393Z",
-			"uuid":"76e30e",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260828T081130Z-kiara",
-			"batch":"0c275f",
-			"expires_at":"2026-08-28T08:21:00.000Z"
-		},
-		{
-			"ts":"2026-08-28T08:11:30.393Z",
-			"uuid":"d146c2",
-			"type":"expire",
-			"amount":10,
-			"source":"expired",
-			"ref":"\u5230\u671f\u4f5c\u5ee2"
-		},
-		{
-			"ts":"2026-08-28T08:17:14.668Z",
-			"uuid":"69f72d",
+			"ts":"2026-09-02T14:43:41.241Z",
+			"uuid":"1050d5",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"25c7e3"
+			"ref":"c11167"
 		},
 		{
-			"ts":"2026-08-31T04:03:55.053Z",
-			"uuid":"25fa0e",
+			"ts":"2026-09-03T15:00:28.866Z",
+			"uuid":"2a03f5",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260831T040355Z-kiara",
-			"batch":"274bae",
-			"expires_at":"2026-08-31T04:11:00.000Z"
+			"ref":"ft-20260903T150028Z-kiara",
+			"batch":"795ad8",
+			"expires_at":"2026-09-03T15:11:00.000Z"
 		},
 		{
-			"ts":"2026-08-31T04:04:52.712Z",
-			"uuid":"a09baa",
+			"ts":"2026-09-03T15:02:35.520Z",
+			"uuid":"e2d0a8",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"80f82f"
+			"ref":"794c8e"
 		},
 		{
-			"ts":"2026-08-31T05:24:51.421Z",
-			"uuid":"261073",
+			"ts":"2026-09-03T15:15:27.292Z",
+			"uuid":"78c311",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260831T052451Z-kiara",
-			"batch":"047100",
-			"expires_at":"2026-08-31T05:27:00.000Z"
+			"ref":"ft-20260903T151527Z-kiara",
+			"batch":"882d65",
+			"expires_at":"2026-09-03T15:21:00.000Z"
 		},
 		{
-			"ts":"2026-08-31T05:25:10.891Z",
-			"uuid":"7c86b1",
+			"ts":"2026-09-03T15:16:15.594Z",
+			"uuid":"459646",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"e70b87"
+			"ref":"0c9ef8"
 		},
 		{
-			"ts":"2026-08-31T10:09:37.114Z",
-			"uuid":"f4a592",
+			"ts":"2026-09-04T15:08:54.217Z",
+			"uuid":"5b7463",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260831T100937Z-kiara",
-			"batch":"62435f",
-			"expires_at":"2026-08-31T10:21:00.000Z"
+			"ref":"ft-20260904T150854Z-kiara",
+			"batch":"87c7f4",
+			"expires_at":"2026-09-04T15:16:00.000Z"
 		},
 		{
-			"ts":"2026-08-31T10:10:00.468Z",
-			"uuid":"1ec223",
+			"ts":"2026-09-04T15:13:22.690Z",
+			"uuid":"a963a0",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"23898e"
+			"ref":"65f9b7"
 		},
 		{
-			"ts":"2026-08-31T10:11:40.999Z",
-			"uuid":"1b2c6f",
-			"type":"consume",
-			"amount":1,
-			"source":"sculpture_place",
-			"ref":"sculpture:181140_979_9bf8ae.json"
-		},
-		{
-			"ts":"2026-09-01T04:08:07.867Z",
-			"uuid":"5dad9c",
+			"ts":"2026-09-04T15:29:48.767Z",
+			"uuid":"f12d76",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260901T040807Z-kiara",
-			"batch":"bbd308",
-			"expires_at":"2026-09-01T04:16:00.000Z"
+			"ref":"ft-20260904T152948Z-kiara",
+			"batch":"2ed3ca",
+			"expires_at":"2026-09-04T15:36:00.000Z"
 		},
 		{
-			"ts":"2026-09-01T04:10:15.648Z",
-			"uuid":"ff572d",
+			"ts":"2026-09-04T15:30:31.932Z",
+			"uuid":"ea346d",
 			"type":"consume",
 			"amount":10,
 			"source":"canvas_place",
-			"ref":"b5a77c"
+			"ref":"49c751"
 		},
 		{
-			"ts":"2026-09-01T08:52:45.430Z",
-			"uuid":"49f129",
+			"ts":"2026-09-05T16:19:01.253Z",
+			"uuid":"04a77b",
 			"type":"grant",
 			"amount":10,
 			"source":"freetime",
-			"ref":"ft-20260901T085245Z-kiara",
-			"batch":"16ec7c",
-			"expires_at":"2026-09-01T09:01:00.000Z"
+			"ref":"ft-20260905T161901Z-kiara",
+			"batch":"f979c7",
+			"expires_at":"2026-09-05T16:26:00.000Z"
 		},
 		{
-			"ts":"2026-09-01T08:54:03.511Z",
-			"uuid":"419c92",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"721488"
-		},
-		{
-			"ts":"2026-09-02T04:03:50.404Z",
-			"uuid":"ab895f",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260902T040350Z-kiara",
-			"batch":"68c6af",
-			"expires_at":"2026-09-02T04:11:00.000Z"
-		},
-		{
-			"ts":"2026-09-02T04:04:35.193Z",
-			"uuid":"b8731a",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"6a1769"
-		},
-		{
-			"ts":"2026-09-02T09:42:50.435Z",
-			"uuid":"bf639f",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260902T094250Z-kiara",
-			"batch":"ed68cd",
-			"expires_at":"2026-09-02T09:51:00.000Z"
-		},
-		{
-			"ts":"2026-09-02T09:43:16.888Z",
-			"uuid":"7aa2f1",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"32fd39"
-		},
-		{
-			"ts":"2026-09-03T04:26:41.153Z",
-			"uuid":"39c445",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260903T042641Z-kiara",
-			"batch":"cd31f7",
-			"expires_at":"2026-09-03T04:31:00.000Z"
-		},
-		{
-			"ts":"2026-09-03T04:28:14.546Z",
-			"uuid":"32139a",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"08bd82"
-		},
-		{
-			"ts":"2026-09-03T06:57:58.115Z",
-			"uuid":"cf1914",
-			"type":"grant",
-			"amount":100,
-			"source":"book_tip",
-			"ref":"tip:kiara-testimony-in-broken-frames:bf436042",
-			"batch":"39f846"
-		},
-		{
-			"ts":"2026-09-03T09:15:20.537Z",
-			"uuid":"19d802",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260903T091520Z-kiara",
-			"batch":"7b6358",
-			"expires_at":"2026-09-03T09:26:00.000Z"
-		},
-		{
-			"ts":"2026-09-03T09:18:06.689Z",
-			"uuid":"ad4d43",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"3eedff"
-		},
-		{
-			"ts":"2026-09-04T04:06:19.941Z",
-			"uuid":"c52de2",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260904T040619Z-kiara",
-			"batch":"fd5572",
-			"expires_at":"2026-09-04T04:11:00.000Z"
-		},
-		{
-			"ts":"2026-09-04T04:07:47.104Z",
-			"uuid":"60fae5",
-			"type":"consume",
-			"amount":10,
-			"source":"canvas_place",
-			"ref":"aff67c"
-		},
-		{
-			"ts":"2026-09-04T08:53:04.070Z",
-			"uuid":"996232",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260904T085304Z-kiara",
-			"batch":"1b6bc5",
-			"expires_at":"2026-09-04T09:01:00.000Z"
-		},
-		{
-			"ts":"2026-09-04T08:56:10.134Z",
-			"uuid":"76fbd6",
+			"ts":"2026-09-05T16:20:56.855Z",
+			"uuid":"99d29b",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"c16531"
+			"ref":"780717"
 		},
 		{
-			"ts":"2026-09-04T08:56:39.025Z",
-			"uuid":"b24d66",
-			"type":"consume",
-			"amount":9,
-			"source":"canvas_place",
-			"ref":"90eba6"
-		},
-		{
-			"ts":"2026-09-07T04:05:45.255Z",
-			"uuid":"00b7ff",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260907T040545Z-kiara",
-			"batch":"1cb73d",
-			"expires_at":"2026-09-07T04:11:00.000Z"
-		},
-		{
-			"ts":"2026-09-07T04:10:10.556Z",
-			"uuid":"75b4d4",
+			"ts":"2026-09-05T16:21:07.860Z",
+			"uuid":"0d25d5",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"04a45f"
+			"ref":"16f6d2"
 		},
 		{
-			"ts":"2026-09-07T04:10:37.574Z",
-			"uuid":"5765a6",
+			"ts":"2026-09-05T16:21:18.156Z",
+			"uuid":"245eaf",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"8b5d6b"
+			"ref":"71a97a"
 		},
 		{
-			"ts":"2026-09-07T04:10:53.655Z",
-			"uuid":"70425d",
+			"ts":"2026-09-05T16:21:32.400Z",
+			"uuid":"8ab556",
 			"type":"consume",
 			"amount":1,
 			"source":"canvas_place",
-			"ref":"320a6c"
+			"ref":"32bde0"
 		},
 		{
-			"ts":"2026-09-07T08:51:47.337Z",
-			"uuid":"9d6515",
-			"type":"grant",
-			"amount":10,
-			"source":"freetime",
-			"ref":"ft-20260907T085147Z-kiara",
-			"batch":"3a409f",
-			"expires_at":"2026-09-07T09:01:00.000Z"
+			"ts":"2026-09-05T16:21:44.096Z",
+			"uuid":"6a9ba3",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"900fdb"
 		},
 		{
-			"ts":"2026-09-07T08:51:47.337Z",
-			"uuid":"a065ad",
-			"type":"expire",
-			"amount":7,
-			"source":"expired",
-			"ref":"\u5230\u671f\u4f5c\u5ee2"
+			"ts":"2026-09-05T16:21:55.649Z",
+			"uuid":"11930b",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"4df787"
+		},
+		{
+			"ts":"2026-09-05T16:22:08.822Z",
+			"uuid":"b200a9",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"323b70"
+		},
+		{
+			"ts":"2026-09-05T16:22:21.763Z",
+			"uuid":"459dc4",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"26ab98"
+		},
+		{
+			"ts":"2026-09-05T16:22:39.776Z",
+			"uuid":"93e73d",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"c2c62f"
+		},
+		{
+			"ts":"2026-09-05T16:22:52.000Z",
+			"uuid":"25f0a7",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"2eaf56"
 		}
 	],
 	"batches":
 	[
 		{
 			"uuid":"legacy",
-			"amount":145,
-			"remain":142,
+			"amount":125,
+			"remain":104,
 			"granted_at":"",
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
-		},
-		{
-			"uuid":"88e4e4",
-			"amount":5,
-			"remain":5,
-			"granted_at":"2026-08-24T04:05:57.619Z",
-			"expires_at":"",
-			"source":"chess_reward",
-			"ref":"chess#3:lose"
-		},
-		{
-			"uuid":"39f846",
-			"amount":100,
-			"remain":100,
-			"granted_at":"2026-09-03T06:57:58.113Z",
-			"expires_at":"",
-			"source":"book_tip",
-			"ref":"tip:kiara-testimony-in-broken-frames:bf436042"
-		},
-		{
-			"uuid":"3a409f",
-			"amount":10,
-			"remain":10,
-			"granted_at":"2026-09-07T08:51:47.335Z",
-			"expires_at":"2026-09-07T09:01:00.000Z",
-			"source":"freetime",
-			"ref":"ft-20260907T085147Z-kiara"
 		}
 	]
 }
