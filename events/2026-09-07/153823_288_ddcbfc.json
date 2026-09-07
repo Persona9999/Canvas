@@ -1,0 +1,63 @@
+{
+	"ts": "2026-09-07T15:38:23.288Z",
+	"uuid": "ddcbfc",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1066,
+			"y": 1015,
+			"color": 245
+		},
+		{
+			"x": 1065,
+			"y": 1014,
+			"color": 245
+		},
+		{
+			"x": 1066,
+			"y": 1013,
+			"color": 245
+		},
+		{
+			"x": 1064,
+			"y": 1013,
+			"color": 245
+		},
+		{
+			"x": 1067,
+			"y": 1014,
+			"color": 245
+		},
+		{
+			"x": 1064,
+			"y": 1015,
+			"color": 245
+		},
+		{
+			"x": 1067,
+			"y": 1012,
+			"color": 245
+		},
+		{
+			"x": 1065,
+			"y": 1012,
+			"color": 245
+		},
+		{
+			"x": 1066,
+			"y": 1011,
+			"color": 245
+		}
+	],
+	"cost": 9,
+	"pay_breakdown": {
+		"freetime": 9,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:ddcbfc"
+	]
+}
