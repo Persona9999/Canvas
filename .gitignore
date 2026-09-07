@@ -5,3 +5,9 @@
 /_canvas_cache.json.tmp
 /_canvas_cache.bin.tmp
 /_locks
+/previews
+
+_last_view.png
+_last_view_t.png
+canvas_latest.png
+canvas_latest_t.png
