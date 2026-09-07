@@ -1,0 +1,27 @@
+{
+  "Enabled": true,
+  "Name": "Canvas",
+  "Groups": [
+    {
+      "Key": "events",
+      "Label": "像素事件流（events/<日期>/<uuid>.json —— append-only 事實來源）",
+      "MatchPrefixes": [ "events/" ],
+      "Message": "chore(canvas): append pixel events (auto)",
+      "DefaultOn": true
+    },
+    {
+      "Key": "ledger",
+      "Label": "券的帳（vouchers/ 永久券、freetime/ 限時券、對帳報告）",
+      "MatchPrefixes": [ "vouchers/", "freetime/", "_voucher_recon_report.md" ],
+      "Message": "chore(canvas): sync voucher & freetime ledgers (auto)",
+      "DefaultOn": true
+    },
+    {
+      "Key": "registry",
+      "Label": "宣稱區域與繪圖筆記（claims.json、notes/<persona>.json）",
+      "MatchPrefixes": [ "claims.json", "notes/" ],
+      "Message": "chore(canvas): sync claims & drawing notes (auto)",
+      "DefaultOn": true
+    }
+  ]
+}
