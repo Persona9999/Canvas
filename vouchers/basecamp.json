@@ -3621,6 +3621,14 @@
 			"amount":10,
 			"source":"canvas_place",
 			"ref":"fd9828"
+		},
+		{
+			"ts":"2026-09-08T00:37:32.089Z",
+			"uuid":"1efed8",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"7d63ed"
 		}
 	],
 	"batches":
@@ -3628,7 +3636,7 @@
 		{
 			"uuid":"legacy",
 			"amount":75,
-			"remain":73,
+			"remain":72,
 			"granted_at":"",
 			"expires_at":"",
 			"source":"legacy_balance",
