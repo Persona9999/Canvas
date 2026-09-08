@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-08T05:28:27.093Z",
+	"uuid": "26dba5",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1079,
+			"y": 1064,
+			"color": 200
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:26dba5"
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"ts": "2026-09-08T09:07:35.799Z",
+	"uuid": "7de2ab",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1081,
+			"y": 971,
+			"color": 197
+		},
+		{
+			"x": 1082,
+			"y": 971,
+			"color": 165
+		},
+		{
+			"x": 1083,
+			"y": 971,
+			"color": 133
+		},
+		{
+			"x": 1084,
+			"y": 971,
+			"color": 101
+		},
+		{
+			"x": 1085,
+			"y": 971,
+			"color": 69
+		},
+		{
+			"x": 1086,
+			"y": 971,
+			"color": 65
+		},
+		{
+			"x": 1087,
+			"y": 971,
+			"color": 66
+		},
+		{
+			"x": 1088,
+			"y": 971,
+			"color": 98
+		},
+		{
+			"x": 1089,
+			"y": 971,
+			"color": 130
+		},
+		{
+			"x": 1090,
+			"y": 971,
+			"color": 162
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:7de2ab"
+	]
+}

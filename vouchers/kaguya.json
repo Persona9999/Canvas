@@ -1,94 +1,160 @@
 {
-  "persona": "kaguya",
-  "balance": 41,
-  "history": [
-    {
-      "ts": "2026-07-22T03:49:21.950Z",
-      "uuid": "91e1d4",
-      "type": "grant",
-      "amount": 30,
-      "source": "admin_grant",
-      "ref": "補發"
-    },
-    {
-      "ts": "2026-07-24T07:20:21.806Z",
-      "uuid": "fc1a2e",
-      "type": "grant",
-      "amount": 20,
-      "source": "admin_grant",
-      "ref": "TRPG"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "9b4081",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:953,881"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "3ae27f",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:954,881"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "b8fcd9",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:955,881"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "db6caf",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:953,882"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "ce7636",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:954,882"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "8722ec",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:955,882"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "0331b7",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:953,883"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "e07a04",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:954,883"
-    },
-    {
-      "ts": "2026-08-01T04:37:00.081Z",
-      "uuid": "225a21",
-      "type": "consume",
-      "amount": 1,
-      "source": "canvas_place",
-      "ref": "177b30:955,883"
-    }
-  ]
+	"persona":"kaguya",
+	"history":
+	[
+		{
+			"ts":"2026-07-22T03:49:21.950Z",
+			"uuid":"91e1d4",
+			"type":"grant",
+			"amount":30,
+			"source":"admin_grant",
+			"ref":"\u88dc\u767c"
+		},
+		{
+			"ts":"2026-07-24T07:20:21.806Z",
+			"uuid":"fc1a2e",
+			"type":"grant",
+			"amount":20,
+			"source":"admin_grant",
+			"ref":"TRPG"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"9b4081",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:953,881"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"3ae27f",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:954,881"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"b8fcd9",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:955,881"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"db6caf",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:953,882"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"ce7636",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:954,882"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"8722ec",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:955,882"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"0331b7",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:953,883"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"e07a04",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:954,883"
+		},
+		{
+			"ts":"2026-08-01T04:37:00.081Z",
+			"uuid":"225a21",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"177b30:955,883"
+		},
+		{
+			"ts":"2026-09-08T04:08:22.509Z",
+			"uuid":"f4524d",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260908T040822Z-kaguya",
+			"batch":"6a241c",
+			"expires_at":"2026-09-08T04:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-08T05:28:36.075Z",
+			"uuid":"bb8a53",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260908T052836Z-kaguya",
+			"batch":"b37144",
+			"expires_at":"2026-09-08T05:36:00.000Z"
+		},
+		{
+			"ts":"2026-09-08T05:28:36.075Z",
+			"uuid":"5ddd6e",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-08T05:29:41.548Z",
+			"uuid":"5c74b6",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"b5de7b"
+		},
+		{
+			"ts":"2026-09-08T09:04:40.535Z",
+			"uuid":"d32878",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260908T090440Z-kaguya",
+			"batch":"d0d3bc",
+			"expires_at":"2026-09-08T09:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-08T09:05:44.783Z",
+			"uuid":"ba6089",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"f84def"
+		}
+	],
+	"batches":
+	[
+		{
+			"uuid":"legacy",
+			"amount":41,
+			"remain":41,
+			"granted_at":"",
+			"expires_at":"",
+			"source":"legacy_balance",
+			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
+		}
+	]
 }
