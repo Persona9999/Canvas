@@ -2641,6 +2641,104 @@
 			"amount":9,
 			"source":"canvas_place",
 			"ref":"ddcbfc"
+		},
+		{
+			"ts":"2026-09-08T15:46:44.874Z",
+			"uuid":"66c828",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260908T154644Z-summit",
+			"batch":"8de893",
+			"expires_at":"2026-09-08T15:51:00.000Z"
+		},
+		{
+			"ts":"2026-09-08T15:49:36.268Z",
+			"uuid":"19e0af",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"49789d"
+		},
+		{
+			"ts":"2026-09-08T15:49:45.564Z",
+			"uuid":"72031b",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"c06831"
+		},
+		{
+			"ts":"2026-09-08T15:49:57.015Z",
+			"uuid":"a3ed3c",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"37252b"
+		},
+		{
+			"ts":"2026-09-08T15:50:24.167Z",
+			"uuid":"f92e94",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"3d111c"
+		},
+		{
+			"ts":"2026-09-08T15:50:32.931Z",
+			"uuid":"5dfa76",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"363b03"
+		},
+		{
+			"ts":"2026-09-08T15:50:41.926Z",
+			"uuid":"6a6e9e",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"67b0d4"
+		},
+		{
+			"ts":"2026-09-08T15:50:51.001Z",
+			"uuid":"a48c41",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"230f13"
+		},
+		{
+			"ts":"2026-09-08T15:50:59.702Z",
+			"uuid":"9ce6d5",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"1df395"
+		},
+		{
+			"ts":"2026-09-08T15:51:10.392Z",
+			"uuid":"7459f7",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"b1f823"
+		},
+		{
+			"ts":"2026-09-08T15:51:10.392Z",
+			"uuid":"dc438c",
+			"type":"expire",
+			"amount":2,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-08T15:51:20.600Z",
+			"uuid":"537b98",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"3db317"
 		}
 	],
 	"batches":
@@ -2648,7 +2746,7 @@
 		{
 			"uuid":"legacy",
 			"amount":281,
-			"remain":266,
+			"remain":264,
 			"granted_at":"",
 			"expires_at":"",
 			"source":"legacy_balance",

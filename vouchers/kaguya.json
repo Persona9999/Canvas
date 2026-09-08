@@ -107,6 +107,24 @@
 			"amount":10,
 			"source":"canvas_place",
 			"ref":"9f77eb"
+		},
+		{
+			"ts":"2026-09-08T15:46:20.504Z",
+			"uuid":"04cda4",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260908T154620Z-kaguya",
+			"batch":"fa2041",
+			"expires_at":"2026-09-08T15:51:00.000Z"
+		},
+		{
+			"ts":"2026-09-08T15:48:47.068Z",
+			"uuid":"c8d537",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"07591a"
 		}
 	],
 	"batches":

@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-08T15:51:11.241Z",
+	"uuid": "b1f823",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1063,
+			"y": 1010,
+			"color": 236
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:b1f823"
+	]
+}
