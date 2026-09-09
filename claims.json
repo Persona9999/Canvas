@@ -223,6 +223,20 @@
 			"status": "done",
 			"created_at": "2026-09-03T09:17:11.106Z",
 			"updated_at": "2026-09-08T05:32:03.705Z"
+		},
+		{
+			"id": "9357fc",
+			"persona": "gura",
+			"region": {
+				"x": 1090,
+				"y": 945,
+				"w": 8,
+				"h": 8
+			},
+			"title": "gura 的小鯊魚背鰭 🦈",
+			"status": "done",
+			"created_at": "2026-09-09T08:58:22.541Z",
+			"updated_at": "2026-09-09T09:01:24.933Z"
 		}
 	]
 }

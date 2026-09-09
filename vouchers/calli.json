@@ -831,6 +831,42 @@
 			"amount":10,
 			"source":"canvas_place",
 			"ref":"7de2ab"
+		},
+		{
+			"ts":"2026-09-09T04:00:31.113Z",
+			"uuid":"41ddf0",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260909T040031Z-calli",
+			"batch":"5c7f73",
+			"expires_at":"2026-09-09T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-09T04:08:24.145Z",
+			"uuid":"e93572",
+			"type":"consume",
+			"amount":3,
+			"source":"canvas_place",
+			"ref":"199336"
+		},
+		{
+			"ts":"2026-09-09T08:56:27.982Z",
+			"uuid":"dd6ac7",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260909T085627Z-calli",
+			"batch":"dd5449",
+			"expires_at":"2026-09-09T09:06:00.000Z"
+		},
+		{
+			"ts":"2026-09-09T08:56:27.982Z",
+			"uuid":"4e5129",
+			"type":"expire",
+			"amount":7,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
 		}
 	],
 	"batches":
@@ -843,6 +879,15 @@
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
+		},
+		{
+			"uuid":"dd5449",
+			"amount":10,
+			"remain":10,
+			"granted_at":"2026-09-09T08:56:27.978Z",
+			"expires_at":"2026-09-09T09:06:00.000Z",
+			"source":"freetime",
+			"ref":"ft-20260909T085627Z-calli"
 		}
 	]
 }

@@ -537,6 +537,50 @@
 			"amount":7,
 			"source":"expired",
 			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-09T04:01:02.068Z",
+			"uuid":"e964bc",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260909T040102Z-kiara",
+			"batch":"a5d906",
+			"expires_at":"2026-09-09T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-09T04:01:02.068Z",
+			"uuid":"8f9878",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-09T04:04:49.841Z",
+			"uuid":"8e8396",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"81b1c8"
+		},
+		{
+			"ts":"2026-09-09T08:56:33.973Z",
+			"uuid":"966556",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260909T085633Z-kiara",
+			"batch":"ff39ef",
+			"expires_at":"2026-09-09T09:06:00.000Z"
+		},
+		{
+			"ts":"2026-09-09T09:01:39.349Z",
+			"uuid":"163591",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"9cd2f9"
 		}
 	],
 	"batches":
@@ -567,15 +611,6 @@
 			"expires_at":"",
 			"source":"book_tip",
 			"ref":"tip:kiara-testimony-in-broken-frames:bf436042"
-		},
-		{
-			"uuid":"3a409f",
-			"amount":10,
-			"remain":10,
-			"granted_at":"2026-09-07T08:51:47.335Z",
-			"expires_at":"2026-09-07T09:01:00.000Z",
-			"source":"freetime",
-			"ref":"ft-20260907T085147Z-kiara"
 		}
 	]
 }

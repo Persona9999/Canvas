@@ -1,0 +1,33 @@
+{
+	"ts": "2026-09-09T04:08:24.368Z",
+	"uuid": "199336",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1084,
+			"y": 970,
+			"color": 128
+		},
+		{
+			"x": 1085,
+			"y": 970,
+			"color": 128
+		},
+		{
+			"x": 1086,
+			"y": 970,
+			"color": 128
+		}
+	],
+	"cost": 3,
+	"pay_breakdown": {
+		"freetime": 3,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:199336"
+	]
+}
