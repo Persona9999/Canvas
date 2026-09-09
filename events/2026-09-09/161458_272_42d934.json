@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-09T16:14:58.272Z",
+	"uuid": "42d934",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 992,
+			"y": 1020,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:42d934"
+	]
+}
