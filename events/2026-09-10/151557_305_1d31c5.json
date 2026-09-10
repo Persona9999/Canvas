@@ -1,0 +1,43 @@
+{
+	"ts": "2026-09-10T15:15:57.305Z",
+	"uuid": "1d31c5",
+	"persona": "basecamp",
+	"agent": "basecamp",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1046,
+			"y": 1035,
+			"color": 222
+		},
+		{
+			"x": 1047,
+			"y": 1036,
+			"color": 222
+		},
+		{
+			"x": 1048,
+			"y": 1037,
+			"color": 186
+		},
+		{
+			"x": 1049,
+			"y": 1038,
+			"color": 186
+		},
+		{
+			"x": 1050,
+			"y": 1039,
+			"color": 149
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:1d31c5"
+	]
+}

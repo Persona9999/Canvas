@@ -2757,6 +2757,78 @@
 			"amount":10,
 			"source":"canvas_place",
 			"ref":"73a071"
+		},
+		{
+			"ts":"2026-09-10T12:28:22.651Z",
+			"uuid":"5342f1",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T122822Z-summit",
+			"batch":"247ed5",
+			"expires_at":"2026-09-10T12:34:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T12:36:31.521Z",
+			"uuid":"35086e",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T123631Z-summit",
+			"batch":"a8c681",
+			"expires_at":"2026-09-10T12:40:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T12:36:31.522Z",
+			"uuid":"9bea28",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-10T12:41:25.904Z",
+			"uuid":"e5b425",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T124125Z-summit",
+			"batch":"5529d3",
+			"expires_at":"2026-09-10T12:45:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T12:41:25.904Z",
+			"uuid":"694f59",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-10T12:41:40.399Z",
+			"uuid":"a7e701",
+			"type":"consume",
+			"amount":3,
+			"source":"canvas_place",
+			"ref":"8f9f58"
+		},
+		{
+			"ts":"2026-09-10T15:12:53.997Z",
+			"uuid":"2437ee",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T151253Z-summit",
+			"batch":"6f6a87",
+			"expires_at":"2026-09-10T15:21:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T15:12:53.997Z",
+			"uuid":"4cf8ef",
+			"type":"expire",
+			"amount":7,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
 		}
 	],
 	"batches":
@@ -2769,6 +2841,15 @@
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
+		},
+		{
+			"uuid":"6f6a87",
+			"amount":10,
+			"remain":10,
+			"granted_at":"2026-09-10T15:12:53.991Z",
+			"expires_at":"2026-09-10T15:21:00.000Z",
+			"source":"freetime",
+			"ref":"ft-20260910T151253Z-summit"
 		}
 	]
 }
