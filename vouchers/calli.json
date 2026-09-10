@@ -867,6 +867,82 @@
 			"amount":7,
 			"source":"expired",
 			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-10T04:16:35.992Z",
+			"uuid":"b75800",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T041635Z-calli",
+			"batch":"c1a2e7",
+			"expires_at":"2026-09-10T04:23:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T04:16:35.992Z",
+			"uuid":"908007",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-10T04:20:46.738Z",
+			"uuid":"32110e",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"be4b96"
+		},
+		{
+			"ts":"2026-09-10T04:21:11.737Z",
+			"uuid":"fad7d9",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"456392"
+		},
+		{
+			"ts":"2026-09-10T04:21:25.039Z",
+			"uuid":"34efa6",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"e5c330"
+		},
+		{
+			"ts":"2026-09-10T07:58:23.874Z",
+			"uuid":"deb5af",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T075823Z-calli",
+			"batch":"d6f99d",
+			"expires_at":"2026-09-10T08:06:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T07:58:23.874Z",
+			"uuid":"1f58fe",
+			"type":"expire",
+			"amount":7,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
+		},
+		{
+			"ts":"2026-09-10T08:02:20.320Z",
+			"uuid":"a35108",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"4d4321"
+		},
+		{
+			"ts":"2026-09-10T08:02:33.640Z",
+			"uuid":"fa155f",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"efab24"
 		}
 	],
 	"batches":
@@ -881,13 +957,13 @@
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
 		},
 		{
-			"uuid":"dd5449",
+			"uuid":"d6f99d",
 			"amount":10,
-			"remain":10,
-			"granted_at":"2026-09-09T08:56:27.978Z",
-			"expires_at":"2026-09-09T09:06:00.000Z",
+			"remain":8,
+			"granted_at":"2026-09-10T07:58:23.871Z",
+			"expires_at":"2026-09-10T08:06:00.000Z",
 			"source":"freetime",
-			"ref":"ft-20260909T085627Z-calli"
+			"ref":"ft-20260910T075823Z-calli"
 		}
 	]
 }

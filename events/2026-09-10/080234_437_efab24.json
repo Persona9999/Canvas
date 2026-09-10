@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-10T08:02:34.437Z",
+	"uuid": "efab24",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1086,
+			"y": 979,
+			"color": 64
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:efab24"
+	]
+}

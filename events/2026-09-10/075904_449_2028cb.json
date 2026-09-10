@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-10T07:59:04.449Z",
+	"uuid": "2028cb",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1010,
+			"y": 1050,
+			"color": 244
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:2028cb"
+	]
+}

@@ -707,6 +707,24 @@
 			"ref":"ft-20260909T085636Z-Sirius",
 			"batch":"208a0f",
 			"expires_at":"2026-09-09T09:06:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T09:02:02.213Z",
+			"uuid":"3934e9",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260910T090202Z-Sirius",
+			"batch":"84ed0e",
+			"expires_at":"2026-09-10T09:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-10T09:02:02.213Z",
+			"uuid":"df4787",
+			"type":"expire",
+			"amount":10,
+			"source":"expired",
+			"ref":"\u5230\u671f\u4f5c\u5ee2"
 		}
 	],
 	"batches":
@@ -721,13 +739,13 @@
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
 		},
 		{
-			"uuid":"208a0f",
+			"uuid":"84ed0e",
 			"amount":10,
 			"remain":10,
-			"granted_at":"2026-09-09T08:56:36.502Z",
-			"expires_at":"2026-09-09T09:06:00.000Z",
+			"granted_at":"2026-09-10T09:02:02.212Z",
+			"expires_at":"2026-09-10T09:11:00.000Z",
 			"source":"freetime",
-			"ref":"ft-20260909T085636Z-Sirius"
+			"ref":"ft-20260910T090202Z-Sirius"
 		}
 	]
 }

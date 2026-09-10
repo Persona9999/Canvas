@@ -237,6 +237,20 @@
 			"status": "done",
 			"created_at": "2026-09-09T08:58:22.541Z",
 			"updated_at": "2026-09-09T09:01:24.933Z"
+		},
+		{
+			"id": "9c9830",
+			"persona": "kiara",
+			"region": {
+				"x": 1092,
+				"y": 970,
+				"w": 3,
+				"h": 2
+			},
+			"title": "kiara 的鳳凰餘燼 🐔🔥（初燃星火下緣延伸）",
+			"status": "active",
+			"created_at": "2026-09-10T08:02:23.942Z",
+			"updated_at": "2026-09-10T08:02:23.942Z"
 		}
 	]
 }
