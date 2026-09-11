@@ -1318,6 +1318,70 @@
 			"amount":1,
 			"source":"canvas_place",
 			"ref":"cebdda"
+		},
+		{
+			"ts":"2026-09-11T04:02:38.521Z",
+			"uuid":"ce54fe",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260911T040238Z-gura",
+			"batch":"7814a9",
+			"expires_at":"2026-09-11T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T04:04:12.298Z",
+			"uuid":"fcdace",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"f9e617"
+		},
+		{
+			"ts":"2026-09-11T04:04:12.298Z",
+			"uuid":"a4b879",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260911T040238Z-gura",
+			"batch":"7814a9",
+			"expires_at":"2026-09-11T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T04:08:10.045Z",
+			"uuid":"12c7f1",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"6ecae0"
+		},
+		{
+			"ts":"2026-09-11T08:35:49.957Z",
+			"uuid":"ea0147",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260911T083549Z-gura",
+			"batch":"f8142c",
+			"expires_at":"2026-09-11T08:46:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T08:37:12.930Z",
+			"uuid":"30c180",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"7819d0"
+		},
+		{
+			"ts":"2026-09-11T08:37:12.930Z",
+			"uuid":"7fe8a1",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260911T083549Z-gura",
+			"batch":"f8142c",
+			"expires_at":"2026-09-11T08:46:00.000Z"
 		}
 	],
 	"batches":
@@ -1325,7 +1389,7 @@
 		{
 			"uuid":"legacy",
 			"amount":160,
-			"remain":146,
+			"remain":145,
 			"granted_at":"",
 			"expires_at":"",
 			"source":"legacy_balance",

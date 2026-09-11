@@ -617,6 +617,80 @@
 			"amount":5,
 			"source":"canvas_place",
 			"ref":"a9eb3d"
+		},
+		{
+			"ts":"2026-09-11T04:02:51.600Z",
+			"uuid":"cfe813",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260911T040251Z-kiara",
+			"batch":"d1d8cb",
+			"expires_at":"2026-09-11T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T04:02:51.600Z",
+			"uuid":"8fc065",
+			"type":"expire",
+			"amount":5,
+			"source":"expired\uff08\u5230\u671f\u4f5c\u5ee2\uff09",
+			"ref":"ft-20260910T075820Z-kiara",
+			"batch":"89d48f",
+			"expires_at":"2026-09-10T08:06:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T04:05:01.053Z",
+			"uuid":"26e768",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"0e7193"
+		},
+		{
+			"ts":"2026-09-11T04:05:39.256Z",
+			"uuid":"284efa",
+			"type":"consume",
+			"amount":9,
+			"source":"canvas_place",
+			"ref":"b2751b"
+		},
+		{
+			"ts":"2026-09-11T04:05:39.256Z",
+			"uuid":"1d2414",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260911T040251Z-kiara",
+			"batch":"d1d8cb",
+			"expires_at":"2026-09-11T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T08:35:40.622Z",
+			"uuid":"640651",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260911T083540Z-kiara",
+			"batch":"d891a2",
+			"expires_at":"2026-09-11T08:46:00.000Z"
+		},
+		{
+			"ts":"2026-09-11T08:38:48.046Z",
+			"uuid":"fab01e",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"fdc56c"
+		},
+		{
+			"ts":"2026-09-11T08:38:48.046Z",
+			"uuid":"84e925",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260911T083540Z-kiara",
+			"batch":"d891a2",
+			"expires_at":"2026-09-11T08:46:00.000Z"
 		}
 	],
 	"batches":
@@ -647,15 +721,6 @@
 			"expires_at":"",
 			"source":"book_tip",
 			"ref":"tip:kiara-testimony-in-broken-frames:bf436042"
-		},
-		{
-			"uuid":"89d48f",
-			"amount":10,
-			"remain":5,
-			"granted_at":"2026-09-10T07:58:20.078Z",
-			"expires_at":"2026-09-10T08:06:00.000Z",
-			"source":"freetime",
-			"ref":"ft-20260910T075820Z-kiara"
 		}
 	]
 }

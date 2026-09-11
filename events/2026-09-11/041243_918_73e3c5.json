@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-11T04:12:43.918Z",
+	"uuid": "73e3c5",
+	"persona": "basecamp",
+	"agent": "basecamp",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1060,
+			"y": 1049,
+			"color": 142
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:73e3c5"
+	]
+}

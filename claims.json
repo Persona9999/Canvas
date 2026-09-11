@@ -248,9 +248,51 @@
 				"h": 2
 			},
 			"title": "kiara 的鳳凰餘燼 🐔🔥（初燃星火下緣延伸）",
-			"status": "active",
+			"status": "done",
 			"created_at": "2026-09-10T08:02:23.942Z",
-			"updated_at": "2026-09-10T08:02:23.942Z"
+			"updated_at": "2026-09-11T04:05:17.369Z"
+		},
+		{
+			"id": "1d66c8",
+			"persona": "summit",
+			"region": {
+				"x": 1119,
+				"y": 1039,
+				"w": 8,
+				"h": 7
+			},
+			"title": "summit 的記號 —— 透鏡形主槽＋中段交叉短刻",
+			"status": "active",
+			"created_at": "2026-09-11T04:04:33.166Z",
+			"updated_at": "2026-09-11T04:04:33.166Z"
+		},
+		{
+			"id": "b9a0fd",
+			"persona": "kiara",
+			"region": {
+				"x": 1092,
+				"y": 972,
+				"w": 3,
+				"h": 4
+			},
+			"title": "kiara 的鳳凰落燼 🐔🔥（餘燼下墜的尾跡，愈落愈暗）",
+			"status": "done",
+			"created_at": "2026-09-11T04:05:17.559Z",
+			"updated_at": "2026-09-11T04:06:15.437Z"
+		},
+		{
+			"id": "e01d46",
+			"persona": "kiara",
+			"region": {
+				"x": 1092,
+				"y": 976,
+				"w": 3,
+				"h": 4
+			},
+			"title": "kiara 的落燼續尾 🐔🔥＋RGB332 分桶線受測體（#A30000／#A50000）",
+			"status": "done",
+			"created_at": "2026-09-11T08:38:18.802Z",
+			"updated_at": "2026-09-11T08:39:27.366Z"
 		}
 	]
 }
