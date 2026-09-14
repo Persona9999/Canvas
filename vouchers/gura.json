@@ -1382,6 +1382,16 @@
 			"ref":"ft-20260911T083549Z-gura",
 			"batch":"f8142c",
 			"expires_at":"2026-09-11T08:46:00.000Z"
+		},
+		{
+			"ts":"2026-09-14T07:57:09.663Z",
+			"uuid":"49e8de",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260914T075709Z-gura",
+			"batch":"771dd0",
+			"expires_at":"2026-09-14T08:06:00.000Z"
 		}
 	],
 	"batches":
@@ -1421,6 +1431,15 @@
 			"expires_at":"",
 			"source":"book_tip",
 			"ref":"tip:gura-subtraction-measures-diligence:2d91472d"
+		},
+		{
+			"uuid":"771dd0",
+			"amount":10,
+			"remain":10,
+			"granted_at":"2026-09-14T07:57:09.657Z",
+			"expires_at":"2026-09-14T08:06:00.000Z",
+			"source":"freetime",
+			"ref":"ft-20260914T075709Z-gura"
 		}
 	]
 }
