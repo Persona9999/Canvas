@@ -558,6 +558,34 @@
 			"ref":"ft-20260915T040200Z-apex-one",
 			"batch":"fa1fcd",
 			"expires_at":"2026-09-15T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:21:39.154Z",
+			"uuid":"2b5594",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260915T092139Z-apex-one",
+			"batch":"dd4542",
+			"expires_at":"2026-09-15T09:31:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:25:13.070Z",
+			"uuid":"f8df43",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"b72c6e"
+		},
+		{
+			"ts":"2026-09-15T09:25:13.070Z",
+			"uuid":"6a286f",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260915T092139Z-apex-one",
+			"batch":"dd4542",
+			"expires_at":"2026-09-15T09:31:00.000Z"
 		}
 	],
 	"batches":

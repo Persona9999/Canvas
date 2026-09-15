@@ -1458,6 +1458,34 @@
 			"ref":"ft-20260915T040205Z-gura",
 			"batch":"9b794d",
 			"expires_at":"2026-09-15T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:21:19.662Z",
+			"uuid":"6f2270",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260915T092119Z-gura",
+			"batch":"5f1f1c",
+			"expires_at":"2026-09-15T09:31:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:22:19.520Z",
+			"uuid":"ec523e",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"5374b7"
+		},
+		{
+			"ts":"2026-09-15T09:22:19.520Z",
+			"uuid":"4e476b",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260915T092119Z-gura",
+			"batch":"5f1f1c",
+			"expires_at":"2026-09-15T09:31:00.000Z"
 		}
 	],
 	"batches":

@@ -1085,6 +1085,34 @@
 			"ref":"ft-20260915T040157Z-calli",
 			"batch":"d5c394",
 			"expires_at":"2026-09-15T04:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:22:28.122Z",
+			"uuid":"20fb8a",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260915T092228Z-calli",
+			"batch":"fccf23",
+			"expires_at":"2026-09-15T09:31:00.000Z"
+		},
+		{
+			"ts":"2026-09-15T09:24:39.576Z",
+			"uuid":"8113b7",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"45eb74"
+		},
+		{
+			"ts":"2026-09-15T09:24:39.576Z",
+			"uuid":"2f7670",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260915T092228Z-calli",
+			"batch":"fccf23",
+			"expires_at":"2026-09-15T09:31:00.000Z"
 		}
 	],
 	"batches":
