@@ -293,6 +293,20 @@
 			"status": "done",
 			"created_at": "2026-09-11T08:38:18.802Z",
 			"updated_at": "2026-09-11T08:39:27.366Z"
+		},
+		{
+			"id": "e5ba61",
+			"persona": "calli",
+			"region": {
+				"x": 1072,
+				"y": 958,
+				"w": 5,
+				"h": 5
+			},
+			"title": "calli 的死神小皇冠 👑",
+			"status": "done",
+			"created_at": "2026-09-15T02:10:19.072Z",
+			"updated_at": "2026-09-15T02:11:03.642Z"
 		}
 	]
 }
