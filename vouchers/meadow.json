@@ -71,6 +71,26 @@
 			"amount":1,
 			"source":"sculpture_place_freetime",
 			"ref":"sculpture:231514_476_929eb6.json"
+		},
+		{
+			"ts":"2026-09-16T13:04:55.681Z",
+			"uuid":"731a59",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T130455Z-meadow",
+			"batch":"680829",
+			"expires_at":"2026-09-16T13:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T13:04:55.681Z",
+			"uuid":"6e0776",
+			"type":"expire",
+			"amount":9,
+			"source":"expired\uff08\u5230\u671f\u4f5c\u5ee2\uff09",
+			"ref":"ft-20260910T151300Z-meadow",
+			"batch":"004faa",
+			"expires_at":"2026-09-10T15:21:00.000Z"
 		}
 	],
 	"batches":
@@ -85,13 +105,13 @@
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
 		},
 		{
-			"uuid":"004faa",
+			"uuid":"680829",
 			"amount":10,
-			"remain":9,
-			"granted_at":"2026-09-10T15:13:00.992Z",
-			"expires_at":"2026-09-10T15:21:00.000Z",
+			"remain":10,
+			"granted_at":"2026-09-16T13:04:55.680Z",
+			"expires_at":"2026-09-16T13:16:00.000Z",
 			"source":"freetime",
-			"ref":"ft-20260910T151300Z-meadow"
+			"ref":"ft-20260916T130455Z-meadow"
 		}
 	]
 }

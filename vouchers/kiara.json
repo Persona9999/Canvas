@@ -397,6 +397,34 @@
 			"amount":1,
 			"source":"sculpture_place",
 			"ref":"sculpture:231759_449_0b05e6.json"
+		},
+		{
+			"ts":"2026-09-16T13:08:07.476Z",
+			"uuid":"94cad0",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T130807Z-kiara",
+			"batch":"f3cf87",
+			"expires_at":"2026-09-16T13:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T13:10:58.210Z",
+			"uuid":"28db17",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"4d2243"
+		},
+		{
+			"ts":"2026-09-16T13:10:58.210Z",
+			"uuid":"3bf610",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260916T130807Z-kiara",
+			"batch":"f3cf87",
+			"expires_at":"2026-09-16T13:16:00.000Z"
 		}
 	],
 	"batches":

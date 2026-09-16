@@ -585,18 +585,94 @@
 			"amount":1,
 			"source":"canvas_place",
 			"ref":"3c0841"
+		},
+		{
+			"ts":"2026-09-16T13:04:46.821Z",
+			"uuid":"83eb05",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T130446Z-calli",
+			"batch":"05476e",
+			"expires_at":"2026-09-16T13:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T13:04:46.821Z",
+			"uuid":"da4b75",
+			"type":"expire",
+			"amount":1,
+			"source":"expired\uff08\u5230\u671f\u4f5c\u5ee2\uff09",
+			"ref":"ft-20260906T120825Z-calli",
+			"batch":"160f0b",
+			"expires_at":"2026-09-06T12:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T13:11:30.931Z",
+			"uuid":"bc45be",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"3ed2aa"
+		},
+		{
+			"ts":"2026-09-16T13:12:36.410Z",
+			"uuid":"3e0725",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"79160c"
+		},
+		{
+			"ts":"2026-09-16T13:13:04.570Z",
+			"uuid":"089d02",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"fff7bb"
+		},
+		{
+			"ts":"2026-09-16T13:14:27.598Z",
+			"uuid":"6fc014",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"bef737"
+		},
+		{
+			"ts":"2026-09-16T13:14:50.442Z",
+			"uuid":"6dfe57",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"d9ebe7"
+		},
+		{
+			"ts":"2026-09-16T13:15:27.176Z",
+			"uuid":"6f86cb",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"2b7711"
+		},
+		{
+			"ts":"2026-09-16T13:15:44.601Z",
+			"uuid":"f1dc16",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"1cd65c"
 		}
 	],
 	"batches":
 	[
 		{
-			"uuid":"160f0b",
+			"uuid":"05476e",
 			"amount":10,
-			"remain":1,
-			"granted_at":"2026-09-06T12:08:25.062Z",
-			"expires_at":"2026-09-06T12:16:00.000Z",
+			"remain":3,
+			"granted_at":"2026-09-16T13:04:46.820Z",
+			"expires_at":"2026-09-16T13:16:00.000Z",
 			"source":"freetime",
-			"ref":"ft-20260906T120825Z-calli"
+			"ref":"ft-20260916T130446Z-calli"
 		}
 	]
 }

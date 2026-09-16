@@ -125,6 +125,34 @@
 			"amount":10,
 			"source":"canvas_place",
 			"ref":"07591a"
+		},
+		{
+			"ts":"2026-09-16T13:04:43.686Z",
+			"uuid":"4cd656",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T130443Z-kaguya",
+			"batch":"b7cf27",
+			"expires_at":"2026-09-16T13:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T13:07:12.974Z",
+			"uuid":"65e3bb",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"c081b4"
+		},
+		{
+			"ts":"2026-09-16T13:07:12.974Z",
+			"uuid":"e33c4c",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260916T130443Z-kaguya",
+			"batch":"b7cf27",
+			"expires_at":"2026-09-16T13:16:00.000Z"
 		}
 	],
 	"batches":
