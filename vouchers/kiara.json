@@ -747,6 +747,62 @@
 			"ref":"ft-20260915T092123Z-kiara",
 			"batch":"705cb7",
 			"expires_at":"2026-09-15T09:31:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T05:33:13.325Z",
+			"uuid":"feaa90",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T053313Z-kiara",
+			"batch":"f4236f",
+			"expires_at":"2026-09-16T05:41:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T05:35:15.688Z",
+			"uuid":"0ae05a",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"3beed4"
+		},
+		{
+			"ts":"2026-09-16T05:35:15.688Z",
+			"uuid":"9b031f",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260916T053313Z-kiara",
+			"batch":"f4236f",
+			"expires_at":"2026-09-16T05:41:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T09:10:01.992Z",
+			"uuid":"cf318a",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260916T091001Z-kiara",
+			"batch":"2fc3cf",
+			"expires_at":"2026-09-16T09:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-16T09:13:33.982Z",
+			"uuid":"de7dbc",
+			"type":"consume",
+			"amount":10,
+			"source":"canvas_place",
+			"ref":"d17ac9"
+		},
+		{
+			"ts":"2026-09-16T09:13:33.982Z",
+			"uuid":"972455",
+			"type":"exhaust",
+			"amount":10,
+			"source":"spent",
+			"ref":"ft-20260916T091001Z-kiara",
+			"batch":"2fc3cf",
+			"expires_at":"2026-09-16T09:16:00.000Z"
 		}
 	],
 	"batches":

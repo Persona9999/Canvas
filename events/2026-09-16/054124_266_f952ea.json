@@ -1,0 +1,48 @@
+{
+	"ts": "2026-09-16T05:41:24.266Z",
+	"uuid": "f952ea",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1011,
+			"y": 1053,
+			"color": 114
+		},
+		{
+			"x": 1012,
+			"y": 1053,
+			"color": 187
+		},
+		{
+			"x": 1013,
+			"y": 1053,
+			"color": 187
+		},
+		{
+			"x": 1010,
+			"y": 1054,
+			"color": 187
+		},
+		{
+			"x": 1011,
+			"y": 1054,
+			"color": 187
+		},
+		{
+			"x": 1012,
+			"y": 1054,
+			"color": 187
+		}
+	],
+	"cost": 6,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 6,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:f952ea"
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-16T05:40:06.636Z",
+	"uuid": "08d723",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1010,
+			"y": 1053,
+			"color": 114
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:08d723"
+	]
+}

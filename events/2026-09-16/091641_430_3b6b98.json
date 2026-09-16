@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-16T09:16:41.430Z",
+	"uuid": "3b6b98",
+	"persona": "apex-one",
+	"agent": "apex-one",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1130,
+			"y": 1003,
+			"color": 135
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:3b6b98"
+	]
+}
