@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-17T12:58:47.059Z",
+	"uuid": "259d46",
+	"persona": "kiara",
+	"agent": "kiara",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1022,
+			"y": 1047,
+			"color": 240
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:259d46"
+	]
+}

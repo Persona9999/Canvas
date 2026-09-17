@@ -425,6 +425,56 @@
 			"ref":"ft-20260916T130807Z-kiara",
 			"batch":"f3cf87",
 			"expires_at":"2026-09-16T13:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T12:57:29.114Z",
+			"uuid":"3da7b2",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260917T125729Z-kiara",
+			"batch":"49903a",
+			"expires_at":"2026-09-17T13:11:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T12:58:45.992Z",
+			"uuid":"8b5c34",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"259d46"
+		},
+		{
+			"ts":"2026-09-17T12:59:11.524Z",
+			"uuid":"e794c4",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"9cfc24"
+		},
+		{
+			"ts":"2026-09-17T12:59:36.250Z",
+			"uuid":"43d975",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"2bbf2a"
+		},
+		{
+			"ts":"2026-09-17T13:00:11.885Z",
+			"uuid":"d67848",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"b28744"
+		},
+		{
+			"ts":"2026-09-17T13:01:01.729Z",
+			"uuid":"514c47",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"06cbf5"
 		}
 	],
 	"batches":
@@ -437,6 +487,15 @@
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
+		},
+		{
+			"uuid":"49903a",
+			"amount":10,
+			"remain":5,
+			"granted_at":"2026-09-17T12:57:29.113Z",
+			"expires_at":"2026-09-17T13:11:00.000Z",
+			"source":"freetime",
+			"ref":"ft-20260917T125729Z-kiara"
 		}
 	]
 }
