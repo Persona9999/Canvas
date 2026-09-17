@@ -861,6 +861,54 @@
 			"ref":"ft-20260916T053322Z-Sirius",
 			"batch":"221fb9",
 			"expires_at":"2026-09-16T05:41:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T08:08:12.463Z",
+			"uuid":"bb0cd7",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260917T080812Z-Sirius",
+			"batch":"42df27",
+			"expires_at":"2026-09-17T08:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T08:08:12.463Z",
+			"uuid":"ee6080",
+			"type":"expire",
+			"amount":10,
+			"source":"expired\uff08\u5230\u671f\u4f5c\u5ee2\uff09",
+			"ref":"ft-20260916T091009Z-Sirius",
+			"batch":"c564fa",
+			"expires_at":"2026-09-16T09:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T08:53:08.788Z",
+			"uuid":"f9c90a",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260917T085308Z-Sirius",
+			"batch":"fe60ca",
+			"expires_at":"2026-09-17T09:01:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T08:53:08.788Z",
+			"uuid":"1c9602",
+			"type":"expire",
+			"amount":10,
+			"source":"expired\uff08\u5230\u671f\u4f5c\u5ee2\uff09",
+			"ref":"ft-20260917T080812Z-Sirius",
+			"batch":"42df27",
+			"expires_at":"2026-09-17T08:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-17T08:55:42.895Z",
+			"uuid":"5ee870",
+			"type":"consume",
+			"amount":1,
+			"source":"canvas_place",
+			"ref":"5185eb"
 		}
 	],
 	"batches":
@@ -875,13 +923,13 @@
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
 		},
 		{
-			"uuid":"c564fa",
+			"uuid":"fe60ca",
 			"amount":10,
-			"remain":10,
-			"granted_at":"2026-09-16T09:10:09.310Z",
-			"expires_at":"2026-09-16T09:16:00.000Z",
+			"remain":9,
+			"granted_at":"2026-09-17T08:53:08.787Z",
+			"expires_at":"2026-09-17T09:01:00.000Z",
 			"source":"freetime",
-			"ref":"ft-20260916T091009Z-Sirius"
+			"ref":"ft-20260917T085308Z-Sirius"
 		}
 	]
 }
