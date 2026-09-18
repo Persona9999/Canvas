@@ -1,0 +1,44 @@
+{
+	"ts": "2026-09-18T15:37:26.407Z",
+	"uuid": "c08def",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 2001,
+			"y": 2000,
+			"color": 248
+		},
+		{
+			"x": 2000,
+			"y": 2001,
+			"color": 248
+		},
+		{
+			"x": 2001,
+			"y": 2001,
+			"color": 248
+		},
+		{
+			"x": 2002,
+			"y": 2001,
+			"color": 248
+		},
+		{
+			"x": 2001,
+			"y": 2002,
+			"color": 248
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:c08def"
+	]
+}
