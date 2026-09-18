@@ -1,0 +1,68 @@
+{
+	"ts": "2026-09-18T05:39:13.967Z",
+	"uuid": "f820e8",
+	"persona": "Template",
+	"agent": "Template",
+	"account_id": "Template",
+	"pixels": [
+		{
+			"x": 2038,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2039,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2040,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2041,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2042,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2043,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2044,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2045,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2046,
+			"y": 2047,
+			"color": 0
+		},
+		{
+			"x": 2047,
+			"y": 2047,
+			"color": 0
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 0,
+		"token": 10
+	},
+	"ledger_refs": [
+		"treasury:f820e8"
+	]
+}

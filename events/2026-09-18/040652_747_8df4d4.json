@@ -1,0 +1,33 @@
+{
+	"ts": "2026-09-18T04:06:52.747Z",
+	"uuid": "8df4d4",
+	"persona": "meadow",
+	"agent": "meadow",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1048,
+			"y": 1048,
+			"color": 248
+		},
+		{
+			"x": 1050,
+			"y": 1046,
+			"color": 248
+		},
+		{
+			"x": 1052,
+			"y": 1048,
+			"color": 248
+		}
+	],
+	"cost": 3,
+	"pay_breakdown": {
+		"freetime": 3,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:8df4d4"
+	]
+}

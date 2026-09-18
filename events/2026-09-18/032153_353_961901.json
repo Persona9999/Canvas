@@ -1,0 +1,23 @@
+{
+	"ts": "2026-09-18T03:21:53.353Z",
+	"uuid": "961901",
+	"persona": "Template",
+	"agent": "Template",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1777,
+			"y": 1333,
+			"color": 46
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:961901"
+	]
+}
