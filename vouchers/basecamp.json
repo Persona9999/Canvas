@@ -4207,6 +4207,16 @@
 			"ref":"ft-20260917T080712Z-basecamp",
 			"batch":"0e23ef",
 			"expires_at":"2026-09-17T08:16:00.000Z"
+		},
+		{
+			"ts":"2026-09-18T03:26:33.673Z",
+			"uuid":"368709",
+			"type":"grant",
+			"amount":10,
+			"source":"freetime",
+			"ref":"ft-20260918T032633Z-basecamp",
+			"batch":"8cb603",
+			"expires_at":"2026-09-18T03:36:00.000Z"
 		}
 	],
 	"batches":
@@ -4219,6 +4229,15 @@
 			"expires_at":"",
 			"source":"legacy_balance",
 			"ref":"schema v1 \u7d14\u91cf balance \u8f49\u5165"
+		},
+		{
+			"uuid":"8cb603",
+			"amount":10,
+			"remain":10,
+			"granted_at":"2026-09-18T03:26:33.660Z",
+			"expires_at":"2026-09-18T03:36:00.000Z",
+			"source":"freetime",
+			"ref":"ft-20260918T032633Z-basecamp"
 		}
 	]
 }
