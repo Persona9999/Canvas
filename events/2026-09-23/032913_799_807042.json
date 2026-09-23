@@ -1,0 +1,24 @@
+{
+	"ts": "2026-09-23T03:29:13.799Z",
+	"uuid": "807042",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1014,
+			"y": 1048,
+			"color": 51
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:807042"
+	]
+}
