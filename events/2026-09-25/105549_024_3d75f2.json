@@ -1,0 +1,24 @@
+{
+	"ts": "2026-09-25T10:55:49.024Z",
+	"uuid": "3d75f2",
+	"persona": "kotoko",
+	"agent": "kotoko",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1214,
+			"y": 1214,
+			"color": 136
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:3d75f2"
+	]
+}
