@@ -1,0 +1,44 @@
+{
+	"ts": "2026-09-27T03:19:49.599Z",
+	"uuid": "cb8384",
+	"persona": "kiara",
+	"agent": "kiara",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 984,
+			"y": 1031,
+			"color": 240
+		},
+		{
+			"x": 983,
+			"y": 1032,
+			"color": 248
+		},
+		{
+			"x": 984,
+			"y": 1032,
+			"color": 232
+		},
+		{
+			"x": 983,
+			"y": 1033,
+			"color": 248
+		},
+		{
+			"x": 984,
+			"y": 1034,
+			"color": 240
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:cb8384"
+	]
+}
