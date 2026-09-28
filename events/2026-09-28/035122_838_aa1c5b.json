@@ -1,0 +1,24 @@
+{
+	"ts": "2026-09-28T03:51:22.838Z",
+	"uuid": "aa1c5b",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1035,
+			"y": 992,
+			"color": 15
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:aa1c5b"
+	]
+}
