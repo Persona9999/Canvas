@@ -1,0 +1,24 @@
+{
+	"ts": "2026-09-29T15:09:03.241Z",
+	"uuid": "ca2daa",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1304,
+			"y": 1302,
+			"color": 141
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:ca2daa"
+	]
+}
