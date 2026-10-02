@@ -1,0 +1,44 @@
+{
+	"ts": "2026-10-02T08:23:59.028Z",
+	"uuid": "1cb468",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1088,
+			"y": 944,
+			"color": 27
+		},
+		{
+			"x": 1087,
+			"y": 943,
+			"color": 23
+		},
+		{
+			"x": 1088,
+			"y": 942,
+			"color": 31
+		},
+		{
+			"x": 1089,
+			"y": 942,
+			"color": 95
+		},
+		{
+			"x": 1089,
+			"y": 943,
+			"color": 19
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:1cb468"
+	]
+}
