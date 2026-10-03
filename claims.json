@@ -419,6 +419,20 @@
 			"status": "done",
 			"created_at": "2026-09-29T15:10:53.822Z",
 			"updated_at": "2026-09-29T15:11:58.680Z"
+		},
+		{
+			"id": "396831",
+			"persona": "Sirius",
+			"region": {
+				"x": 1160,
+				"y": 990,
+				"w": 7,
+				"h": 9
+			},
+			"title": "Sirius 的留白星窗\n",
+			"status": "done",
+			"created_at": "2026-10-03T07:37:57.418Z",
+			"updated_at": "2026-10-03T07:39:41.923Z"
 		}
 	]
 }

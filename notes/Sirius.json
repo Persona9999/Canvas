@@ -1,0 +1,21 @@
+{
+	"persona": "Sirius",
+	"notes": [
+		{
+			"id": "7b76d2",
+			"title": "Sirius 的留白星窗\n",
+			"plan": "",
+			"expected_size": "7x9",
+			"est_cost": 63,
+			"target_region": {
+				"x": 1160,
+				"y": 990,
+				"w": 7,
+				"h": 9
+			},
+			"status": "planning",
+			"created_at": "2026-10-03T07:39:42.040Z",
+			"updated_at": "2026-10-03T07:39:42.040Z"
+		}
+	]
+}
