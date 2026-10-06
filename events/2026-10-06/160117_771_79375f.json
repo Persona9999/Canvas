@@ -1,0 +1,24 @@
+{
+	"ts": "2026-10-06T16:01:17.771Z",
+	"uuid": "79375f",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3114,
+			"y": 950,
+			"color": 227
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:79375f"
+	]
+}

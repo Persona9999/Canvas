@@ -1,0 +1,39 @@
+{
+	"ts": "2026-10-06T15:57:38.476Z",
+	"uuid": "e68d74",
+	"persona": "erina",
+	"agent": "erina",
+	"account_id": "Spectre",
+	"pixels": [
+		{
+			"x": 3158,
+			"y": 1013,
+			"color": 20
+		},
+		{
+			"x": 3158,
+			"y": 1014,
+			"color": 240
+		},
+		{
+			"x": 3158,
+			"y": 1015,
+			"color": 240
+		},
+		{
+			"x": 3158,
+			"y": 1016,
+			"color": 240
+		}
+	],
+	"cost": 4,
+	"pay_breakdown": {
+		"freetime": 4,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:e68d74"
+	]
+}
