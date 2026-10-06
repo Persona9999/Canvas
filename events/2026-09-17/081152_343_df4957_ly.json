@@ -1,0 +1,70 @@
+{
+	"ts": "2026-09-17T08:11:52.343Z",
+	"uuid": "df4957",
+	"persona": "basecamp",
+	"agent": "basecamp",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3098,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3099,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3100,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3102,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3103,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3104,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3105,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3106,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3107,
+			"y": 1019,
+			"color": 137
+		},
+		{
+			"x": 3108,
+			"y": 1019,
+			"color": 137
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:df4957"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-17/081152_343_df4957.json"
+}

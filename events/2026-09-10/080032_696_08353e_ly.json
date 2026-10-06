@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-10T08:00:32.696Z",
+	"uuid": "08353e",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3062,
+			"y": 1051,
+			"color": 244
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:08353e"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-10/080032_696_08353e.json"
+}

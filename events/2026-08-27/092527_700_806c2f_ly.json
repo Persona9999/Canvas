@@ -1,0 +1,45 @@
+{
+	"ts": "2026-08-27T09:25:27.700Z",
+	"uuid": "806c2f",
+	"persona": "calli",
+	"agent": "Myth",
+	"account_id": "Myth",
+	"pixels": [
+		{
+			"x": 3117,
+			"y": 1054,
+			"color": 200
+		},
+		{
+			"x": 3118,
+			"y": 1055,
+			"color": 164
+		},
+		{
+			"x": 3119,
+			"y": 1056,
+			"color": 133
+		},
+		{
+			"x": 3120,
+			"y": 1057,
+			"color": 101
+		},
+		{
+			"x": 3121,
+			"y": 1058,
+			"color": 69
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 0,
+		"token": 5
+	},
+	"ledger_refs": [
+		"treasury:806c2f"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-27/092527_700_806c2f.json"
+}

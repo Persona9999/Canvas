@@ -1,0 +1,70 @@
+{
+	"ts": "2026-08-27T09:22:44.673Z",
+	"uuid": "f837a7",
+	"persona": "basecamp",
+	"agent": "cc",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 2572,
+			"y": 374,
+			"color": 248
+		},
+		{
+			"x": 2574,
+			"y": 374,
+			"color": 248
+		},
+		{
+			"x": 2576,
+			"y": 374,
+			"color": 248
+		},
+		{
+			"x": 2578,
+			"y": 374,
+			"color": 248
+		},
+		{
+			"x": 2581,
+			"y": 375,
+			"color": 141
+		},
+		{
+			"x": 2583,
+			"y": 375,
+			"color": 141
+		},
+		{
+			"x": 2585,
+			"y": 375,
+			"color": 141
+		},
+		{
+			"x": 2587,
+			"y": 375,
+			"color": 141
+		},
+		{
+			"x": 2580,
+			"y": 366,
+			"color": 182
+		},
+		{
+			"x": 2580,
+			"y": 364,
+			"color": 182
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:f837a7"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-27/092244_673_f837a7.json"
+}

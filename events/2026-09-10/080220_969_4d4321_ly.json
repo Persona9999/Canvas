@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-10T08:02:20.969Z",
+	"uuid": "4d4321",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3133,
+			"y": 979,
+			"color": 64
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:4d4321"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-10/080220_969_4d4321.json"
+}

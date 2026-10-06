@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-30T09:09:38.561Z",
+	"uuid": "cc80a1",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3348,
+			"y": 1300,
+			"color": 252
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:cc80a1"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-30/090938_561_cc80a1.json"
+}

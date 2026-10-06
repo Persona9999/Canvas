@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-25T08:22:16.938Z",
+	"uuid": "d0a112",
+	"persona": "summit",
+	"agent": "zeta",
+	"account_id": "zeta",
+	"pixels": [
+		{
+			"x": 2049,
+			"y": 1,
+			"color": 105
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 0,
+		"token": 1
+	},
+	"ledger_refs": [
+		"treasury:d0a112"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-25/082216_938_d0a112.json"
+}

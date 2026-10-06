@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-04T08:43:42.428Z",
+	"uuid": "3c3054",
+	"persona": "meadow",
+	"agent": "cc",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3053,
+			"y": 1019,
+			"color": 85
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:3c3054"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-04/084342_428_3c3054.json"
+}

@@ -1,0 +1,31 @@
+{
+	"ts": "2026-09-22T08:38:06.946Z",
+	"uuid": "51e96b",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3141,
+			"y": 942,
+			"color": 95
+		},
+		{
+			"x": 3139,
+			"y": 941,
+			"color": 22
+		}
+	],
+	"cost": 2,
+	"pay_breakdown": {
+		"freetime": 2,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:51e96b"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-22/083806_946_51e96b.json"
+}

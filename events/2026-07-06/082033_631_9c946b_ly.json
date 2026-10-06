@@ -1,0 +1,49 @@
+{
+	"ts": "2026-07-06T08:20:33.631Z",
+	"uuid": "9c946b",
+	"persona": "trailhead",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3072,
+			"y": 1020,
+			"color": 248
+		},
+		{
+			"x": 3071,
+			"y": 1021,
+			"color": 248
+		},
+		{
+			"x": 3072,
+			"y": 1021,
+			"color": 248
+		},
+		{
+			"x": 3073,
+			"y": 1021,
+			"color": 248
+		},
+		{
+			"x": 3072,
+			"y": 1022,
+			"color": 248
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 5,
+		"token": 0
+	},
+	"ledger_refs": [
+		"1632db",
+		"9b9839",
+		"9b74df",
+		"aa569f",
+		"a947da"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-07-06/082033_631_9c946b.json"
+}

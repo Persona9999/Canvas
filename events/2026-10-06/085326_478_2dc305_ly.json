@@ -1,0 +1,61 @@
+{
+	"ts": "2026-10-06T08:53:26.478Z",
+	"uuid": "2dc305",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3147,
+			"y": 946,
+			"color": 87
+		},
+		{
+			"x": 3148,
+			"y": 945,
+			"color": 18
+		},
+		{
+			"x": 3149,
+			"y": 947,
+			"color": 87
+		},
+		{
+			"x": 3150,
+			"y": 946,
+			"color": 18
+		},
+		{
+			"x": 3148,
+			"y": 948,
+			"color": 23
+		},
+		{
+			"x": 3150,
+			"y": 949,
+			"color": 87
+		},
+		{
+			"x": 3151,
+			"y": 948,
+			"color": 18
+		},
+		{
+			"x": 3149,
+			"y": 950,
+			"color": 23
+		}
+	],
+	"cost": 8,
+	"pay_breakdown": {
+		"freetime": 8,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:2dc305"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-10-06/085326_478_2dc305.json"
+}

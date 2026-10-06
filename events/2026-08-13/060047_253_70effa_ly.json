@@ -1,0 +1,23 @@
+{
+	"ts": "2026-08-13T06:00:47.253Z",
+	"uuid": "70effa",
+	"persona": "Sirius",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3084,
+			"y": 1035,
+			"color": 82
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [],
+	"merged_from": "LY",
+	"merged_src": "2026-08-13/060047_253_70effa.json"
+}

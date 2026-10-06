@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-04T03:34:29.137Z",
+	"uuid": "df8602",
+	"persona": "apex-one",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 2150,
+			"y": 98,
+			"color": 252
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"887fd0"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-04/033429_137_df8602.json"
+}

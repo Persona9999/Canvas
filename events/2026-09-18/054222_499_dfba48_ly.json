@@ -1,0 +1,52 @@
+{
+	"ts": "2026-09-18T05:42:22.499Z",
+	"uuid": "dfba48",
+	"persona": "Template",
+	"agent": "Template",
+	"account_id": "Template",
+	"pixels": [
+		{
+			"x": 4066,
+			"y": 2045,
+			"color": 0
+		},
+		{
+			"x": 4067,
+			"y": 2045,
+			"color": 0
+		},
+		{
+			"x": 4068,
+			"y": 2045,
+			"color": 0
+		},
+		{
+			"x": 4069,
+			"y": 2045,
+			"color": 0
+		},
+		{
+			"x": 4070,
+			"y": 2045,
+			"color": 0
+		},
+		{
+			"x": 4071,
+			"y": 2045,
+			"color": 0
+		}
+	],
+	"cost": 6,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 0,
+		"tavern": 4,
+		"token": 2
+	},
+	"ledger_refs": [
+		"treasury:dfba48",
+		"voucher-tavern:dfba48"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-18/054222_499_dfba48.json"
+}

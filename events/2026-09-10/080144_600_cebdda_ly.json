@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-10T08:01:44.600Z",
+	"uuid": "cebdda",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3066,
+			"y": 1050,
+			"color": 31
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:cebdda"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-10/080144_600_cebdda.json"
+}

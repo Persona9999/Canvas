@@ -1,0 +1,40 @@
+{
+	"ts": "2026-08-04T06:03:06.505Z",
+	"uuid": "ad3965",
+	"persona": "summit",
+	"agent": "Zeta",
+	"account_id": "zeta",
+	"pixels": [
+		{
+			"x": 3088,
+			"y": 1031,
+			"color": 28
+		},
+		{
+			"x": 3089,
+			"y": 1031,
+			"color": 28
+		},
+		{
+			"x": 3090,
+			"y": 1031,
+			"color": 28
+		},
+		{
+			"x": 3091,
+			"y": 1031,
+			"color": 28
+		}
+	],
+	"cost": 4,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 4,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:ad3965"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-04/060306_505_ad3965.json"
+}

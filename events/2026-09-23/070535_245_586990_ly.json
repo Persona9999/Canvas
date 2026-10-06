@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-23T07:05:35.245Z",
+	"uuid": "586990",
+	"persona": "kiara",
+	"agent": "kiara",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3153,
+			"y": 963,
+			"color": 252
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:586990"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-23/070535_245_586990.json"
+}

@@ -1,0 +1,25 @@
+{
+	"ts": "2026-07-06T08:21:09.558Z",
+	"uuid": "fb0e67",
+	"persona": "trailhead",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3073,
+			"y": 1021,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"e35f49"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-07-06/082109_558_fb0e67.json"
+}

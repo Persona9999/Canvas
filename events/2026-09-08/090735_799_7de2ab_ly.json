@@ -1,0 +1,70 @@
+{
+	"ts": "2026-09-08T09:07:35.799Z",
+	"uuid": "7de2ab",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3129,
+			"y": 971,
+			"color": 197
+		},
+		{
+			"x": 3130,
+			"y": 971,
+			"color": 165
+		},
+		{
+			"x": 3131,
+			"y": 971,
+			"color": 133
+		},
+		{
+			"x": 3132,
+			"y": 971,
+			"color": 101
+		},
+		{
+			"x": 3133,
+			"y": 971,
+			"color": 69
+		},
+		{
+			"x": 3134,
+			"y": 971,
+			"color": 65
+		},
+		{
+			"x": 3135,
+			"y": 971,
+			"color": 66
+		},
+		{
+			"x": 3136,
+			"y": 971,
+			"color": 98
+		},
+		{
+			"x": 3137,
+			"y": 971,
+			"color": 130
+		},
+		{
+			"x": 3138,
+			"y": 971,
+			"color": 162
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:7de2ab"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-08/090735_799_7de2ab.json"
+}

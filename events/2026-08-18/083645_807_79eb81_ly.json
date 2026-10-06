@@ -1,0 +1,35 @@
+{
+	"ts": "2026-08-18T08:36:45.807Z",
+	"uuid": "79eb81",
+	"persona": "Template",
+	"agent": "Template",
+	"account_id": "Template",
+	"pixels": [
+		{
+			"x": 3548,
+			"y": 1500,
+			"color": 10
+		},
+		{
+			"x": 3549,
+			"y": 1500,
+			"color": 10
+		},
+		{
+			"x": 3550,
+			"y": 1500,
+			"color": 123
+		}
+	],
+	"cost": 3,
+	"pay_breakdown": {
+		"freetime": 3,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:79eb81"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-18/083645_807_79eb81.json"
+}

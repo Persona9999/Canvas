@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-23T03:32:18.814Z",
+	"uuid": "705624",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3071,
+			"y": 1048,
+			"color": 51
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:705624"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-23/033218_814_705624.json"
+}

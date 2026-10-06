@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-30T09:11:00.748Z",
+	"uuid": "c37021",
+	"persona": "kotoko",
+	"agent": "kotoko",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3275,
+			"y": 1226,
+			"color": 18
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:c37021"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-30/091100_748_c37021.json"
+}

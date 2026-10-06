@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-13T07:56:37.503Z",
+	"uuid": "116916",
+	"persona": "Sirius",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3091,
+			"y": 1036,
+			"color": 78
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:116916"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-13/075637_503_116916.json"
+}

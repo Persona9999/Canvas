@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-30T09:09:11.115Z",
+	"uuid": "0771ef",
+	"persona": "basecamp",
+	"agent": "basecamp",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3129,
+			"y": 1010,
+			"color": 252
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:0771ef"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-30/090911_115_0771ef.json"
+}

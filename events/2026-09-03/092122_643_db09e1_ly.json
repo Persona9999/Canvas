@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-03T09:21:22.643Z",
+	"uuid": "db09e1",
+	"persona": "meadow",
+	"agent": "cc",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3055,
+			"y": 1048,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:db09e1"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-03/092122_643_db09e1.json"
+}

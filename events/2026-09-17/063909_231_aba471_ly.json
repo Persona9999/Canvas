@@ -1,0 +1,70 @@
+{
+	"ts": "2026-09-17T06:39:09.231Z",
+	"uuid": "aba471",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3064,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3065,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3066,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3067,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3068,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3069,
+			"y": 1053,
+			"color": 224
+		},
+		{
+			"x": 3070,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3071,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3072,
+			"y": 1053,
+			"color": 254
+		},
+		{
+			"x": 3073,
+			"y": 1053,
+			"color": 254
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:aba471"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-17/063909_231_aba471.json"
+}

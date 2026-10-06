@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-09T09:03:35.925Z",
+	"uuid": "8d11cb",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3132,
+			"y": 1068,
+			"color": 0
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:8d11cb"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-09/090335_925_8d11cb.json"
+}

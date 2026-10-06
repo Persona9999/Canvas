@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-30T09:12:12.323Z",
+	"uuid": "f11384",
+	"persona": "kotoko",
+	"agent": "kotoko",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3276,
+			"y": 1227,
+			"color": 18
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:f11384"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-30/091212_323_f11384.json"
+}

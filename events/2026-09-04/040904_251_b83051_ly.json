@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-04T04:09:04.251Z",
+	"uuid": "b83051",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3133,
+			"y": 949,
+			"color": 23
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:b83051"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-04/040904_251_b83051.json"
+}

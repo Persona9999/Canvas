@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-24T07:10:05.504Z",
+	"uuid": "e5c8ce",
+	"persona": "basecamp",
+	"agent": "cc",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 2569,
+			"y": 377,
+			"color": 224
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:e5c8ce"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-24/071005_504_e5c8ce.json"
+}

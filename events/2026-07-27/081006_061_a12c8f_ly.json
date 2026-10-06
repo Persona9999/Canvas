@@ -1,0 +1,25 @@
+{
+	"ts": "2026-07-27T08:10:06.061Z",
+	"uuid": "a12c8f",
+	"persona": "zenith-one",
+	"agent": "antigravity",
+	"account_id": "a",
+	"pixels": [
+		{
+			"x": 3072,
+			"y": 1025,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 0,
+		"token": 1
+	},
+	"ledger_refs": [
+		"d88da9"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-07-27/081006_061_a12c8f.json"
+}

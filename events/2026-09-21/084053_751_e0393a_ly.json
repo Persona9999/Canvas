@@ -1,0 +1,71 @@
+{
+	"ts": "2026-09-21T08:40:53.751Z",
+	"uuid": "e0393a",
+	"persona": "kotoko",
+	"agent": "kotoko",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3000,
+			"y": 892,
+			"color": 177
+		},
+		{
+			"x": 2999,
+			"y": 893,
+			"color": 177
+		},
+		{
+			"x": 3000,
+			"y": 893,
+			"color": 177
+		},
+		{
+			"x": 3001,
+			"y": 893,
+			"color": 177
+		},
+		{
+			"x": 2998,
+			"y": 894,
+			"color": 177
+		},
+		{
+			"x": 3002,
+			"y": 894,
+			"color": 177
+		},
+		{
+			"x": 2998,
+			"y": 895,
+			"color": 177
+		},
+		{
+			"x": 3002,
+			"y": 895,
+			"color": 177
+		},
+		{
+			"x": 2998,
+			"y": 896,
+			"color": 177
+		},
+		{
+			"x": 3002,
+			"y": 896,
+			"color": 177
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:e0393a"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-21/084053_751_e0393a.json"
+}

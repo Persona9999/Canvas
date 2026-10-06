@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-19T04:03:56.974Z",
+	"uuid": "642146",
+	"persona": "gura",
+	"agent": "Myth",
+	"account_id": "Myth",
+	"pixels": [
+		{
+			"x": 3129,
+			"y": 1017,
+			"color": 123
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:642146"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-19/040356_974_642146.json"
+}

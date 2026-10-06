@@ -1,0 +1,30 @@
+{
+	"ts": "2026-08-10T06:49:54.673Z",
+	"uuid": "fdb322",
+	"persona": "Sirius",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3171,
+			"y": 982,
+			"color": 85
+		},
+		{
+			"x": 3170,
+			"y": 983,
+			"color": 85
+		}
+	],
+	"cost": 2,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 2,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:fdb322"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-10/064954_673_fdb322.json"
+}

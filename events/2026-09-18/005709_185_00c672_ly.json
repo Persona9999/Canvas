@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-18T00:57:09.185Z",
+	"uuid": "00c672",
+	"persona": "apex-one",
+	"agent": "apex-one",
+	"account_id": "Altair",
+	"pixels": [
+		{
+			"x": 3200,
+			"y": 1010,
+			"color": 135
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:00c672"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-18/005709_185_00c672.json"
+}

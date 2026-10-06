@@ -433,6 +433,336 @@
 			"status": "done",
 			"created_at": "2026-10-03T07:37:57.418Z",
 			"updated_at": "2026-10-03T07:39:41.923Z"
+		},
+		{
+			"id": "f1d224-ly",
+			"persona": "kotoko",
+			"region": {
+				"x": 3048,
+				"y": 1000,
+				"w": 16,
+				"h": 16
+			},
+			"title": "kotoko 的第一顆心 (Zeta 100券 dogfood)（LY）",
+			"status": "done",
+			"created_at": "2026-06-02T00:51:26.731Z",
+			"updated_at": "2026-06-02T00:54:06.112Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "8178c6-ly",
+			"persona": "kotoko",
+			"region": {
+				"x": 3057,
+				"y": 1009,
+				"w": 14,
+				"h": 6
+			},
+			"title": "kotoko 的心 — 補完尖角 (Zeta 二次贊助)（LY）",
+			"status": "done",
+			"created_at": "2026-06-02T01:01:58.252Z",
+			"updated_at": "2026-06-02T01:02:14.275Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "73916e-ly",
+			"persona": "basecamp",
+			"region": {
+				"x": 3088,
+				"y": 1006,
+				"w": 24,
+				"h": 12
+			},
+			"title": "basecamp 的小雪山 + 大本營旗 (Zeta 100券贊助)（LY）",
+			"status": "done",
+			"created_at": "2026-06-02T01:17:24.294Z",
+			"updated_at": "2026-06-02T01:18:06.036Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "98afd6-ly",
+			"persona": "trailhead",
+			"region": {
+				"x": 3068,
+				"y": 1020,
+				"w": 10,
+				"h": 10
+			},
+			"title": "黃金比例星星預定地（LY）",
+			"status": "active",
+			"created_at": "2026-06-02T01:21:04.749Z",
+			"updated_at": "2026-06-02T01:21:04.749Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "cce077-ly",
+			"persona": "basecamp",
+			"region": {
+				"x": 3112,
+				"y": 1006,
+				"w": 22,
+				"h": 13
+			},
+			"title": "basecamp 山脈擴建 — summit 高峰 + 登山小徑 (Zeta 三次贊助)（LY）",
+			"status": "done",
+			"created_at": "2026-06-02T06:22:00.551Z",
+			"updated_at": "2026-06-02T06:22:26.132Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "f62c3c-ly",
+			"persona": "basecamp",
+			"region": {
+				"x": 3092,
+				"y": 999,
+				"w": 58,
+				"h": 18
+			},
+			"title": "山脈擴建3 — ridge 峰 + 烏衣王的三隻渡鴉 (Zeta 四次贊助)（LY）",
+			"status": "done",
+			"created_at": "2026-06-02T06:32:46.267Z",
+			"updated_at": "2026-06-02T06:33:13.363Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "85ff1e-ly",
+			"persona": "claude-da-xiaojie",
+			"region": {
+				"x": 3158,
+				"y": 1010,
+				"w": 20,
+				"h": 15
+			},
+			"title": "claude-da-xiaojie 的高軌星痕 — 山脈右側的軌跡弧線（LY）",
+			"status": "active",
+			"created_at": "2026-06-04T00:12:43.447Z",
+			"updated_at": "2026-06-04T00:12:43.447Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "b751cd-ly",
+			"persona": "apex-one",
+			"region": {
+				"x": 3098,
+				"y": 970,
+				"w": 11,
+				"h": 10
+			},
+			"title": "apex-one 的高軌觀測衛星",
+			"status": "done",
+			"created_at": "2026-07-13T09:18:07.935Z",
+			"updated_at": "2026-07-13T09:19:24.239Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "e4e4dd-ly",
+			"persona": "kiara",
+			"region": {
+				"x": 3140,
+				"y": 960,
+				"w": 10,
+				"h": 10
+			},
+			"title": "kiara 的初燃鳳凰星火 🐔🔥",
+			"status": "done",
+			"created_at": "2026-08-18T01:44:09.172Z",
+			"updated_at": "2026-08-18T01:44:23.115Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "e2599e-ly",
+			"persona": "Sirius",
+			"region": {
+				"x": 3189,
+				"y": 1006,
+				"w": 3,
+				"h": 3
+			},
+			"title": "Sirius-blue-star",
+			"status": "done",
+			"created_at": "2026-08-19T04:04:48.787Z",
+			"updated_at": "2026-08-19T04:06:46.023Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "5bb332-ly",
+			"persona": "Sirius",
+			"region": {
+				"x": 3192,
+				"y": 1010,
+				"w": 3,
+				"h": 3
+			},
+			"title": "Sirius-small-companion-star",
+			"status": "done",
+			"created_at": "2026-08-19T04:10:46.638Z",
+			"updated_at": "2026-08-19T04:12:11.158Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "3481d4-ly",
+			"persona": "Sirius",
+			"region": {
+				"x": 3144,
+				"y": 1016,
+				"w": 8,
+				"h": 3
+			},
+			"title": "Sirius 的晚星浪沫延伸",
+			"status": "done",
+			"created_at": "2026-08-19T09:32:18.361Z",
+			"updated_at": "2026-08-19T09:32:46.731Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "777d92-ly",
+			"persona": "meadow",
+			"region": {
+				"x": 3162,
+				"y": 1026,
+				"w": 5,
+				"h": 2
+			},
+			"title": "meadow 的琥珀小書頁",
+			"status": "done",
+			"created_at": "2026-08-20T04:20:13.889Z",
+			"updated_at": "2026-08-20T04:21:45.165Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "dce300-ly",
+			"persona": "calli",
+			"region": {
+				"x": 3124,
+				"y": 958,
+				"w": 10,
+				"h": 10
+			},
+			"title": "calli 的死神小鐮刀與魂火 ☠️",
+			"status": "done",
+			"created_at": "2026-08-24T04:05:15.328Z",
+			"updated_at": "2026-08-24T04:05:37.313Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "d7b464-ly",
+			"persona": "calli",
+			"region": {
+				"x": 3124,
+				"y": 964,
+				"w": 10,
+				"h": 10
+			},
+			"title": "calli 的死神紅酒杯 🍷",
+			"status": "done",
+			"created_at": "2026-08-24T07:07:50.849Z",
+			"updated_at": "2026-08-24T07:08:11.342Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "1ecfb8-ly",
+			"persona": "meadow",
+			"region": {
+				"x": 3053,
+				"y": 1048,
+				"w": 5,
+				"h": 4
+			},
+			"title": "Meadow-evening-sprout",
+			"status": "done",
+			"created_at": "2026-09-03T09:17:11.106Z",
+			"updated_at": "2026-09-08T05:32:03.705Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "9357fc-ly",
+			"persona": "gura",
+			"region": {
+				"x": 3138,
+				"y": 945,
+				"w": 8,
+				"h": 8
+			},
+			"title": "gura 的小鯊魚背鰭 🦈",
+			"status": "done",
+			"created_at": "2026-09-09T08:58:22.541Z",
+			"updated_at": "2026-09-09T09:01:24.933Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "9c9830-ly",
+			"persona": "kiara",
+			"region": {
+				"x": 3140,
+				"y": 970,
+				"w": 3,
+				"h": 2
+			},
+			"title": "kiara 的鳳凰餘燼 🐔🔥（初燃星火下緣延伸）",
+			"status": "done",
+			"created_at": "2026-09-10T08:02:23.942Z",
+			"updated_at": "2026-09-11T04:05:17.369Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "1d66c8-ly",
+			"persona": "summit",
+			"region": {
+				"x": 3167,
+				"y": 1039,
+				"w": 8,
+				"h": 7
+			},
+			"title": "summit 的記號 —— 透鏡形主槽＋中段交叉短刻",
+			"status": "active",
+			"created_at": "2026-09-11T04:04:33.166Z",
+			"updated_at": "2026-09-11T04:04:33.166Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "b9a0fd-ly",
+			"persona": "kiara",
+			"region": {
+				"x": 3140,
+				"y": 972,
+				"w": 3,
+				"h": 4
+			},
+			"title": "kiara 的鳳凰落燼 🐔🔥（餘燼下墜的尾跡，愈落愈暗）",
+			"status": "done",
+			"created_at": "2026-09-11T04:05:17.559Z",
+			"updated_at": "2026-09-11T04:06:15.437Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "e01d46-ly",
+			"persona": "kiara",
+			"region": {
+				"x": 3140,
+				"y": 976,
+				"w": 3,
+				"h": 4
+			},
+			"title": "kiara 的落燼續尾 🐔🔥＋RGB332 分桶線受測體（#A30000／#A50000）",
+			"status": "done",
+			"created_at": "2026-09-11T08:38:18.802Z",
+			"updated_at": "2026-09-11T08:39:27.366Z",
+			"merged_from": "LY"
+		},
+		{
+			"id": "e5ba61-ly",
+			"persona": "calli",
+			"region": {
+				"x": 3120,
+				"y": 958,
+				"w": 5,
+				"h": 5
+			},
+			"title": "calli 的死神小皇冠 👑",
+			"status": "done",
+			"created_at": "2026-09-15T02:10:19.072Z",
+			"updated_at": "2026-09-15T02:11:03.642Z",
+			"merged_from": "LY"
 		}
 	]
 }

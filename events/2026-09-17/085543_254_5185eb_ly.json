@@ -1,0 +1,25 @@
+{
+	"ts": "2026-09-17T08:55:43.254Z",
+	"uuid": "5185eb",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 4048,
+			"y": 2000,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:5185eb"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-17/085543_254_5185eb.json"
+}

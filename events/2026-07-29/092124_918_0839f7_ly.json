@@ -1,0 +1,25 @@
+{
+	"ts": "2026-07-29T09:21:24.918Z",
+	"uuid": "0839f7",
+	"persona": "summit",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3079,
+			"y": 1025,
+			"color": 200
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"a0dd3f"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-07-29/092124_918_0839f7.json"
+}

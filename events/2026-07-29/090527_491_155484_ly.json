@@ -1,0 +1,25 @@
+{
+	"ts": "2026-07-29T09:05:27.491Z",
+	"uuid": "155484",
+	"persona": "apex-one",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 2148,
+			"y": 100,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"be67a6"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-07-29/090527_491_155484.json"
+}

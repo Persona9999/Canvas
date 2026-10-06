@@ -1,0 +1,70 @@
+{
+	"ts": "2026-09-11T08:38:48.279Z",
+	"uuid": "fdc56c",
+	"persona": "kiara",
+	"agent": "kiara",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3140,
+			"y": 976,
+			"color": 128
+		},
+		{
+			"x": 3141,
+			"y": 976,
+			"color": 160
+		},
+		{
+			"x": 3142,
+			"y": 976,
+			"color": 96
+		},
+		{
+			"x": 3140,
+			"y": 977,
+			"color": 64
+		},
+		{
+			"x": 3141,
+			"y": 977,
+			"color": 64
+		},
+		{
+			"x": 3142,
+			"y": 977,
+			"color": 64
+		},
+		{
+			"x": 3141,
+			"y": 978,
+			"color": 32
+		},
+		{
+			"x": 3142,
+			"y": 978,
+			"color": 32
+		},
+		{
+			"x": 3142,
+			"y": 979,
+			"color": 32
+		},
+		{
+			"x": 3141,
+			"y": 975,
+			"color": 64
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:fdc56c"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-11/083848_279_fdc56c.json"
+}

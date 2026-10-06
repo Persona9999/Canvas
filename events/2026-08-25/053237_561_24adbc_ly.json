@@ -1,0 +1,70 @@
+{
+	"ts": "2026-08-25T05:32:37.561Z",
+	"uuid": "24adbc",
+	"persona": "calli",
+	"agent": "Myth",
+	"account_id": "Myth",
+	"pixels": [
+		{
+			"x": 3124,
+			"y": 972,
+			"color": 69
+		},
+		{
+			"x": 3125,
+			"y": 972,
+			"color": 105
+		},
+		{
+			"x": 3126,
+			"y": 972,
+			"color": 133
+		},
+		{
+			"x": 3127,
+			"y": 972,
+			"color": 165
+		},
+		{
+			"x": 3128,
+			"y": 972,
+			"color": 197
+		},
+		{
+			"x": 3125,
+			"y": 973,
+			"color": 65
+		},
+		{
+			"x": 3126,
+			"y": 973,
+			"color": 65
+		},
+		{
+			"x": 3127,
+			"y": 973,
+			"color": 101
+		},
+		{
+			"x": 3128,
+			"y": 973,
+			"color": 133
+		},
+		{
+			"x": 3129,
+			"y": 973,
+			"color": 165
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:24adbc"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-25/053237_561_24adbc.json"
+}

@@ -1,0 +1,26 @@
+{
+	"ts": "2026-09-23T03:30:24.584Z",
+	"uuid": "333026",
+	"persona": "kaguya",
+	"agent": "kaguya",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3066,
+			"y": 1048,
+			"color": 51
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:333026"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-23/033024_584_333026.json"
+}

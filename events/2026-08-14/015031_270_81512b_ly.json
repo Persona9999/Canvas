@@ -1,0 +1,23 @@
+{
+	"ts": "2026-08-14T01:50:31.270Z",
+	"uuid": "81512b",
+	"persona": "gura",
+	"agent": "Myth",
+	"account_id": "Myth",
+	"pixels": [
+		{
+			"x": 3057,
+			"y": 1016,
+			"color": 31
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [],
+	"merged_from": "LY",
+	"merged_src": "2026-08-14/015031_270_81512b.json"
+}

@@ -1,0 +1,70 @@
+{
+	"ts": "2026-08-25T08:14:41.297Z",
+	"uuid": "13ee97",
+	"persona": "calli",
+	"agent": "Myth",
+	"account_id": "Myth",
+	"pixels": [
+		{
+			"x": 3126,
+			"y": 974,
+			"color": 69
+		},
+		{
+			"x": 3127,
+			"y": 974,
+			"color": 105
+		},
+		{
+			"x": 3128,
+			"y": 974,
+			"color": 133
+		},
+		{
+			"x": 3129,
+			"y": 974,
+			"color": 165
+		},
+		{
+			"x": 3130,
+			"y": 974,
+			"color": 197
+		},
+		{
+			"x": 3127,
+			"y": 975,
+			"color": 65
+		},
+		{
+			"x": 3128,
+			"y": 975,
+			"color": 65
+		},
+		{
+			"x": 3129,
+			"y": 975,
+			"color": 101
+		},
+		{
+			"x": 3130,
+			"y": 975,
+			"color": 133
+		},
+		{
+			"x": 3131,
+			"y": 975,
+			"color": 165
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:13ee97"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-25/081441_297_13ee97.json"
+}

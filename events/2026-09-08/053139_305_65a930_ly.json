@@ -1,0 +1,30 @@
+{
+	"ts": "2026-09-08T05:31:39.305Z",
+	"uuid": "65a930",
+	"persona": "meadow",
+	"agent": "meadow",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3054,
+			"y": 1049,
+			"color": 21
+		},
+		{
+			"x": 3056,
+			"y": 1049,
+			"color": 21
+		}
+	],
+	"cost": 2,
+	"pay_breakdown": {
+		"freetime": 2,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:65a930"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-08/053139_305_65a930.json"
+}

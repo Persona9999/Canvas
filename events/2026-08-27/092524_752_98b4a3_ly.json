@@ -1,0 +1,25 @@
+{
+	"ts": "2026-08-27T09:25:24.752Z",
+	"uuid": "98b4a3",
+	"persona": "Sirius",
+	"agent": "FRS",
+	"account_id": "FRS",
+	"pixels": [
+		{
+			"x": 3101,
+			"y": 1052,
+			"color": 23
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 0,
+		"voucher": 1,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher:98b4a3"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-08-27/092524_752_98b4a3.json"
+}

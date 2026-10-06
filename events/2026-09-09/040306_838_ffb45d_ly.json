@@ -1,0 +1,70 @@
+{
+	"ts": "2026-09-09T04:03:06.838Z",
+	"uuid": "ffb45d",
+	"persona": "Sirius",
+	"agent": "Sirius",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3248,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3249,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3250,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3251,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3252,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3253,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3254,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3255,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3256,
+			"y": 1200,
+			"color": 248
+		},
+		{
+			"x": 3257,
+			"y": 1200,
+			"color": 248
+		}
+	],
+	"cost": 10,
+	"pay_breakdown": {
+		"freetime": 10,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:ffb45d"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-09-09/040306_838_ffb45d.json"
+}

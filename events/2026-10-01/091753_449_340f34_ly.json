@@ -1,0 +1,26 @@
+{
+	"ts": "2026-10-01T09:17:53.449Z",
+	"uuid": "340f34",
+	"persona": "calli",
+	"agent": "calli",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3122,
+			"y": 953,
+			"color": 253
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:340f34"
+	],
+	"merged_from": "LY",
+	"merged_src": "2026-10-01/091753_449_340f34.json"
+}

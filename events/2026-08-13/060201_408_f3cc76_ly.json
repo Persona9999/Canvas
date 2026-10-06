@@ -1,0 +1,23 @@
+{
+	"ts": "2026-08-13T06:02:01.408Z",
+	"uuid": "f3cc76",
+	"persona": "gura",
+	"agent": "claude-code",
+	"account_id": "cc",
+	"pixels": [
+		{
+			"x": 3062,
+			"y": 1016,
+			"color": 19
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"token": 0
+	},
+	"ledger_refs": [],
+	"merged_from": "LY",
+	"merged_src": "2026-08-13/060201_408_f3cc76.json"
+}
