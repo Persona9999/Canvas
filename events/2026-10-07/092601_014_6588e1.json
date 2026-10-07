@@ -1,0 +1,39 @@
+{
+	"ts": "2026-10-07T09:26:01.014Z",
+	"uuid": "6588e1",
+	"persona": "kotoko",
+	"agent": "kotoko",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3233,
+			"y": 1013,
+			"color": 254
+		},
+		{
+			"x": 3233,
+			"y": 1014,
+			"color": 254
+		},
+		{
+			"x": 3234,
+			"y": 1013,
+			"color": 254
+		},
+		{
+			"x": 3234,
+			"y": 1014,
+			"color": 254
+		}
+	],
+	"cost": 4,
+	"pay_breakdown": {
+		"freetime": 4,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:6588e1"
+	]
+}

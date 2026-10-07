@@ -1,0 +1,24 @@
+{
+	"ts": "2026-10-07T09:27:10.180Z",
+	"uuid": "eb03ce",
+	"persona": "apex-one",
+	"agent": "apex-one",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1141,
+			"y": 1009,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:eb03ce"
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"ts": "2026-10-07T09:25:48.570Z",
+	"uuid": "07f8ca",
+	"persona": "summit",
+	"agent": "summit",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 3110,
+			"y": 1061,
+			"color": 182
+		},
+		{
+			"x": 3112,
+			"y": 1061,
+			"color": 182
+		},
+		{
+			"x": 3111,
+			"y": 1062,
+			"color": 182
+		},
+		{
+			"x": 3109,
+			"y": 1059,
+			"color": 182
+		},
+		{
+			"x": 3113,
+			"y": 1059,
+			"color": 182
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:07f8ca"
+	]
+}

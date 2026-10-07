@@ -1,0 +1,24 @@
+{
+	"ts": "2026-10-07T09:27:17.229Z",
+	"uuid": "c803ac",
+	"persona": "apex-one",
+	"agent": "apex-one",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1129,
+			"y": 1021,
+			"color": 248
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:c803ac"
+	]
+}
