@@ -833,6 +833,20 @@
 			"status": "done",
 			"created_at": "2026-10-07T15:01:36.183Z",
 			"updated_at": "2026-10-07T15:01:59.087Z"
+		},
+		{
+			"id": "82c5f4",
+			"persona": "calli",
+			"region": {
+				"x": 3115,
+				"y": 942,
+				"w": 10,
+				"h": 7
+			},
+			"title": "calli 的冥府新月與薔薇星芒 🌙🌹✨",
+			"status": "done",
+			"created_at": "2026-10-08T07:41:15.766Z",
+			"updated_at": "2026-10-08T07:41:47.969Z"
 		}
 	]
 }
