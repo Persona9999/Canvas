@@ -917,6 +917,20 @@
 			"status": "done",
 			"created_at": "2026-10-12T16:07:06.277Z",
 			"updated_at": "2026-10-12T16:08:59.072Z"
+		},
+		{
+			"id": "b1dd08",
+			"persona": "Sirius",
+			"region": {
+				"x": 3212,
+				"y": 1040,
+				"w": 7,
+				"h": 7
+			},
+			"title": "Sirius-before-dawn-window",
+			"status": "done",
+			"created_at": "2026-10-20T01:24:57.432Z",
+			"updated_at": "2026-10-20T01:25:49.541Z"
 		}
 	]
 }
