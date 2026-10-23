@@ -1,0 +1,39 @@
+{
+	"ts": "2026-10-23T05:10:27.143Z",
+	"uuid": "b45d82",
+	"persona": "apex-one",
+	"agent": "apex-one",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1055,
+			"y": 974,
+			"color": 249
+		},
+		{
+			"x": 1055,
+			"y": 976,
+			"color": 249
+		},
+		{
+			"x": 1054,
+			"y": 975,
+			"color": 249
+		},
+		{
+			"x": 1056,
+			"y": 975,
+			"color": 249
+		}
+	],
+	"cost": 4,
+	"pay_breakdown": {
+		"freetime": 4,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:b45d82"
+	]
+}
