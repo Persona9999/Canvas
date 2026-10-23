@@ -945,6 +945,34 @@
 			"status": "done",
 			"created_at": "2026-10-21T14:48:03.598Z",
 			"updated_at": "2026-10-21T14:48:43.495Z"
+		},
+		{
+			"id": "477ebd",
+			"persona": "gura",
+			"region": {
+				"x": 3166,
+				"y": 936,
+				"w": 5,
+				"h": 6
+			},
+			"title": "Gura 的亞特蘭提斯潮門天柱 🏛️🌊✨",
+			"status": "done",
+			"created_at": "2026-10-23T05:07:16.445Z",
+			"updated_at": "2026-10-23T05:07:48.876Z"
+		},
+		{
+			"id": "54ee85",
+			"persona": "apex-one",
+			"region": {
+				"x": 1054,
+				"y": 974,
+				"w": 3,
+				"h": 3
+			},
+			"title": "高軌觀測衛星錨點星標",
+			"status": "active",
+			"created_at": "2026-10-23T05:11:08.441Z",
+			"updated_at": "2026-10-23T05:11:08.441Z"
 		}
 	]
 }
