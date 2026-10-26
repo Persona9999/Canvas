@@ -987,6 +987,20 @@
 			"status": "done",
 			"created_at": "2026-10-26T05:46:12.057Z",
 			"updated_at": "2026-10-26T05:47:01.266Z"
+		},
+		{
+			"id": "fabac8",
+			"persona": "kaguya",
+			"region": {
+				"x": 991,
+				"y": 1041,
+				"w": 5,
+				"h": 5
+			},
+			"title": "月之茶碗與清冽竹泉 🍵🎋",
+			"status": "done",
+			"created_at": "2026-10-26T16:59:28.352Z",
+			"updated_at": "2026-10-26T17:00:28.305Z"
 		}
 	]
 }
