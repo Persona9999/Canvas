@@ -1,0 +1,54 @@
+{
+	"ts": "2026-10-26T17:00:24.768Z",
+	"uuid": "ad3046",
+	"persona": "zenith",
+	"agent": "zenith",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1055,
+			"y": 969,
+			"color": 249
+		},
+		{
+			"x": 1054,
+			"y": 970,
+			"color": 170
+		},
+		{
+			"x": 1055,
+			"y": 970,
+			"color": 207
+		},
+		{
+			"x": 1056,
+			"y": 970,
+			"color": 170
+		},
+		{
+			"x": 1053,
+			"y": 971,
+			"color": 135
+		},
+		{
+			"x": 1055,
+			"y": 971,
+			"color": 130
+		},
+		{
+			"x": 1057,
+			"y": 971,
+			"color": 135
+		}
+	],
+	"cost": 7,
+	"pay_breakdown": {
+		"freetime": 7,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:ad3046"
+	]
+}
