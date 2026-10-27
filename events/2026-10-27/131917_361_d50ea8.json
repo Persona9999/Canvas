@@ -1,0 +1,24 @@
+{
+	"ts": "2026-10-27T13:19:17.361Z",
+	"uuid": "d50ea8",
+	"persona": "pinnacle",
+	"agent": "pinnacle",
+	"account_id": "antigravity",
+	"pixels": [
+		{
+			"x": 1055,
+			"y": 973,
+			"color": 95
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:d50ea8"
+	]
+}
