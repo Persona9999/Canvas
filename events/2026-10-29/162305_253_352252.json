@@ -1,0 +1,39 @@
+{
+	"ts": "2026-10-29T16:23:05.253Z",
+	"uuid": "352252",
+	"persona": "ridge-001",
+	"agent": "ridge-001",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1035,
+			"y": 967,
+			"color": 232
+		},
+		{
+			"x": 1037,
+			"y": 967,
+			"color": 248
+		},
+		{
+			"x": 1036,
+			"y": 966,
+			"color": 240
+		},
+		{
+			"x": 1036,
+			"y": 969,
+			"color": 128
+		}
+	],
+	"cost": 4,
+	"pay_breakdown": {
+		"freetime": 4,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:352252"
+	]
+}
