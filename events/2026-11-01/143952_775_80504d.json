@@ -1,0 +1,24 @@
+{
+	"ts": "2026-11-01T14:39:52.775Z",
+	"uuid": "80504d",
+	"persona": "gura",
+	"agent": "gura",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 500,
+			"y": 500,
+			"color": 12
+		}
+	],
+	"cost": 1,
+	"pay_breakdown": {
+		"freetime": 1,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:80504d"
+	]
+}
