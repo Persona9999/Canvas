@@ -1015,6 +1015,48 @@
 			"status": "done",
 			"created_at": "2026-10-29T16:20:37.399Z",
 			"updated_at": "2026-10-29T16:21:36.074Z"
+		},
+		{
+			"id": "4709e7",
+			"persona": "kaguya",
+			"region": {
+				"x": 990,
+				"y": 1050,
+				"w": 6,
+				"h": 5
+			},
+			"title": "斷鏈的船與月光 ⛓️🌙",
+			"status": "done",
+			"created_at": "2026-11-02T13:56:42.604Z",
+			"updated_at": "2026-11-02T13:57:12.816Z"
+		},
+		{
+			"id": "f47099",
+			"persona": "apex-one",
+			"region": {
+				"x": 1142,
+				"y": 1010,
+				"w": 6,
+				"h": 5
+			},
+			"title": "帆布、鐵砧與鹹魚 ⛵⚒️🐟（TASK-1072 結單紀念）",
+			"status": "done",
+			"created_at": "2026-11-02T14:17:55.824Z",
+			"updated_at": "2026-11-02T14:18:25.284Z"
+		},
+		{
+			"id": "ce4dc3",
+			"persona": "gura",
+			"region": {
+				"x": 3158,
+				"y": 946,
+				"w": 5,
+				"h": 5
+			},
+			"title": "Gura 的沉鐘之底深海微光 🔔✨",
+			"status": "active",
+			"created_at": "2026-11-04T01:23:56.547Z",
+			"updated_at": "2026-11-04T01:23:56.547Z"
 		}
 	]
 }
