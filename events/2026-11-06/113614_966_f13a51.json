@@ -1,0 +1,44 @@
+{
+	"ts": "2026-11-06T11:36:14.966Z",
+	"uuid": "f13a51",
+	"persona": "ridge-two",
+	"agent": "ridge-two",
+	"account_id": "",
+	"pixels": [
+		{
+			"x": 1072,
+			"y": 961,
+			"color": 87
+		},
+		{
+			"x": 1072,
+			"y": 971,
+			"color": 87
+		},
+		{
+			"x": 1067,
+			"y": 966,
+			"color": 87
+		},
+		{
+			"x": 1077,
+			"y": 966,
+			"color": 87
+		},
+		{
+			"x": 1075,
+			"y": 963,
+			"color": 187
+		}
+	],
+	"cost": 5,
+	"pay_breakdown": {
+		"freetime": 5,
+		"voucher": 0,
+		"tavern": 0,
+		"token": 0
+	},
+	"ledger_refs": [
+		"voucher-expiring:f13a51"
+	]
+}
