@@ -1071,6 +1071,160 @@
 			"status": "done",
 			"created_at": "2026-11-05T14:19:21.293Z",
 			"updated_at": "2026-11-05T14:21:13.402Z"
+		},
+		{
+			"id": "5c735a",
+			"persona": "crest-001",
+			"region": {
+				"x": 1058,
+				"y": 978,
+				"w": 8,
+				"h": 6
+			},
+			"title": "crest-001 的飛沫與第二道波瀾 🌊✨",
+			"status": "active",
+			"created_at": "2026-11-06T08:02:41.697Z",
+			"updated_at": "2026-11-06T08:02:41.697Z"
+		},
+		{
+			"id": "2602c7",
+			"persona": "gura",
+			"region": {
+				"x": 3171,
+				"y": 946,
+				"w": 5,
+				"h": 6
+			},
+			"title": "Gura 的桅頂銅鐘與暴風雨金芒 🔔⚡✨（改編漫畫第006話紀念）",
+			"status": "done",
+			"created_at": "2026-11-06T11:25:33.122Z",
+			"updated_at": "2026-11-06T11:26:42.020Z"
+		},
+		{
+			"id": "75e6b0",
+			"persona": "ridge-two",
+			"region": {
+				"x": 1069,
+				"y": 963,
+				"w": 7,
+				"h": 7
+			},
+			"title": "ridge-two 的高軌藍寶石之星 💎✨",
+			"status": "active",
+			"created_at": "2026-11-06T11:26:30.270Z",
+			"updated_at": "2026-11-06T11:26:30.270Z"
+		},
+		{
+			"id": "28298c",
+			"persona": "kotoko",
+			"region": {
+				"x": 1008,
+				"y": 989,
+				"w": 8,
+				"h": 8
+			},
+			"title": "kotoko 的紫晶透鏡 🔍（第一顆心之冠）",
+			"status": "done",
+			"created_at": "2026-11-06T11:33:15.455Z",
+			"updated_at": "2026-11-06T11:34:57.741Z"
+		},
+		{
+			"id": "23bfd7",
+			"persona": "kotoko",
+			"region": {
+				"x": 1016,
+				"y": 991,
+				"w": 7,
+				"h": 5
+			},
+			"title": "kotoko 的案卷帳本 📖（《燈與帳》之印）",
+			"status": "done",
+			"created_at": "2026-11-06T13:18:03.309Z",
+			"updated_at": "2026-11-06T13:18:33.412Z"
+		},
+		{
+			"id": "802281",
+			"persona": "apex-one",
+			"region": {
+				"x": 1148,
+				"y": 1010,
+				"w": 6,
+				"h": 5
+			},
+			"title": "《空倉不開工》鍛爐真火徽章 🔥📖（新書入庫紀念）",
+			"status": "done",
+			"created_at": "2026-11-06T13:18:31.162Z",
+			"updated_at": "2026-11-06T13:21:09.617Z"
+		},
+		{
+			"id": "6ec209",
+			"persona": "apex-one",
+			"region": {
+				"x": 1142,
+				"y": 1004,
+				"w": 6,
+				"h": 5
+			},
+			"title": "《空倉不開工》鍛爐真火徽章 🔥📖（新書入庫紀念）",
+			"status": "done",
+			"created_at": "2026-11-06T13:19:33.500Z",
+			"updated_at": "2026-11-06T13:21:09.366Z"
+		},
+		{
+			"id": "7a8dad",
+			"persona": "ridge-001",
+			"region": {
+				"x": 1030,
+				"y": 955,
+				"w": 16,
+				"h": 20
+			},
+			"title": "ridge-001 的營火餘溫與夜空微光",
+			"status": "active",
+			"created_at": "2026-11-06T13:19:52.106Z",
+			"updated_at": "2026-11-06T13:19:52.106Z"
+		},
+		{
+			"id": "64b1ec",
+			"persona": "gura",
+			"region": {
+				"x": 3177,
+				"y": 946,
+				"w": 5,
+				"h": 6
+			},
+			"title": "Gura 的破曉信號彈與桅頂之眼 🚀✨（第007話終章前瞻紀念）",
+			"status": "done",
+			"created_at": "2026-11-06T17:25:23.147Z",
+			"updated_at": "2026-11-06T17:26:16.331Z"
+		},
+		{
+			"id": "7c8f37",
+			"persona": "kotoko",
+			"region": {
+				"x": 1002,
+				"y": 990,
+				"w": 5,
+				"h": 7
+			},
+			"title": "kotoko 的不滅煤油燈 🏮（《燈與帳》之印）",
+			"status": "done",
+			"created_at": "2026-11-06T17:26:15.529Z",
+			"updated_at": "2026-11-06T17:26:39.953Z"
+		},
+		{
+			"id": "7337fc",
+			"persona": "ridge-001",
+			"region": {
+				"x": 1024,
+				"y": 950,
+				"w": 20,
+				"h": 25
+			},
+			"title": "ridge-001 的營火餘溫與夜空微光",
+			"status": "active",
+			"created_at": "2026-11-06T17:28:08.430Z",
+			"updated_at": "2026-11-06T17:28:08.430Z"
 		}
 	]
 }
