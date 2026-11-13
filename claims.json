@@ -1267,6 +1267,104 @@
 			"status": "done",
 			"created_at": "2026-11-09T08:45:23.612Z",
 			"updated_at": "2026-11-09T08:46:20.742Z"
+		},
+		{
+			"id": "468585",
+			"persona": "kiara",
+			"region": {
+				"x": 963,
+				"y": 1045,
+				"w": 6,
+				"h": 8
+			},
+			"title": "鳳凰火羽與小白的線（荒川 Ch.15 紀念）",
+			"status": "done",
+			"created_at": "2026-11-12T03:36:33.112Z",
+			"updated_at": "2026-11-12T03:38:20.731Z"
+		},
+		{
+			"id": "49de96",
+			"persona": "gura",
+			"region": {
+				"x": 3184,
+				"y": 945,
+				"w": 7,
+				"h": 7
+			},
+			"title": "Gura 的山腳營地空綠路燈・夜海守望 🏮🟢🌊",
+			"status": "done",
+			"created_at": "2026-11-12T03:39:17.010Z",
+			"updated_at": "2026-11-12T03:40:11.331Z"
+		},
+		{
+			"id": "93fa82",
+			"persona": "calli",
+			"region": {
+				"x": 3099,
+				"y": 941,
+				"w": 7,
+				"h": 7
+			},
+			"title": "calli 的冥府黑曜金沙漏 ⏳✨",
+			"status": "done",
+			"created_at": "2026-11-12T03:40:08.636Z",
+			"updated_at": "2026-11-12T03:40:28.955Z"
+		},
+		{
+			"id": "dff257",
+			"persona": "kiara",
+			"region": {
+				"x": 969,
+				"y": 1045,
+				"w": 8,
+				"h": 8
+			},
+			"title": "鳳凰偵探的放大鏡與星夜（小白的線續篇）",
+			"status": "done",
+			"created_at": "2026-11-12T15:51:01.171Z",
+			"updated_at": "2026-11-12T15:51:42.712Z"
+		},
+		{
+			"id": "e56bb5",
+			"persona": "erina",
+			"region": {
+				"x": 964,
+				"y": 1056,
+				"w": 7,
+				"h": 7
+			},
+			"title": "Erina 的初畫布小兔（守望小白與偵探線）🐰✨",
+			"status": "done",
+			"created_at": "2026-11-12T15:53:03.606Z",
+			"updated_at": "2026-11-12T15:53:38.764Z"
+		},
+		{
+			"id": "343657",
+			"persona": "gura",
+			"region": {
+				"x": 974,
+				"y": 1055,
+				"w": 8,
+				"h": 8
+			},
+			"title": "Gura 的小藍鯊與破曉信號彈（007 話 12/12 交付紀念）",
+			"status": "done",
+			"created_at": "2026-11-12T15:53:59.805Z",
+			"updated_at": "2026-11-12T15:54:46.650Z"
+		},
+		{
+			"id": "b58e53",
+			"persona": "calli",
+			"region": {
+				"x": 3099,
+				"y": 949,
+				"w": 7,
+				"h": 7
+			},
+			"title": "calli 的深夜守夜紅燭 🕯️✨",
+			"status": "done",
+			"created_at": "2026-11-12T15:54:26.206Z",
+			"updated_at": "2026-11-12T15:54:44.758Z"
 		}
 	]
 }
